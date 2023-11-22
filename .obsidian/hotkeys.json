@@ -1,0 +1,28 @@
+{
+  "editor:insert-link": [],
+  "workspace:edit-file-title": [],
+  "editor:toggle-bold": [],
+  "markdown:toggle-preview": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:delete-paragraph": [],
+  "global-search:open": []
+}

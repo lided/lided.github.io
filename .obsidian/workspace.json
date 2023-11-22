@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "21b8cd3f4d6a6f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0a148177716052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b75e291df17c5585",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d619e0ae4b052a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cf54de3708f806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c87ef4150171b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b371eec0b4f14f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9ea98599d18ffe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "85c594c4de743e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "989c066559de81d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba9d319529b09a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b75e291df17c5585",
+  "lastOpenFiles": [
+    "redis/持久化.md",
+    "redis/安装与卸载.md",
+    "redis/10大数据类型.md",
+    "正则/1.md",
+    "正则",
+    "bzd.canvas",
+    "linux/防火墙.md",
+    "linux/ifcfg-enc33.md",
+    "linux/systemctl.md",
+    "redis/命令.md",
+    "redis/[Commands.md",
+    "未命名 2.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "qqq.canvas",
+    "Docker2022 1.mmap",
+    "Docker2022.mmap",
+    "redis",
+    "docker/docker运行其他服务.md",
+    "linux",
+    "Pasted image 20231121155035.png",
+    "Pasted image 20231121155124.png",
+    "docker/docker私有库.md",
+    "docker/docker安装.md",
+    "docker/Dockerfile.md",
+    "docker/portainer.md",
+    "git/git.md",
+    "docker/docker安装^ad12c0.md",
+    "docker/docker compose/dockerfile.md",
+    "docker/docker compose/a.md",
+    "docker/docker compose/fefe.md",
+    "2023-11-20.md"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#8a5cf5",
+  "theme": "system",
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Microsoft YaHei,Microsoft YaHei UI",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Microsoft YaHei",
+  "baseFontSize": 19,
+  "showViewHeader": false
+}

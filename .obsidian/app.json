@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "newFileLocation": "current",
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "useTab": false,
+  "promptDelete": false,
+  "foldIndent": false
+}
