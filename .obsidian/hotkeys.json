@@ -16,13 +16,23 @@
       "key": "O"
     },
     {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
+      "modifiers": [],
+      "key": "F4"
     }
   ],
   "editor:toggle-checklist-status": [],
   "editor:delete-paragraph": [],
-  "global-search:open": []
+  "global-search:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ]
 }
