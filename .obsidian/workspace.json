@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/主从复制和哨兵.md",
+                "file": "redis/集群.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis/主从复制和哨兵.md"
+                "file": "redis/集群.md"
               }
             }
           }
@@ -106,8 +106,9 @@
   },
   "active": "b74e533b1a4e35ea",
   "lastOpenFiles": [
-    "redis/sentinel哨兵.md",
     "redis/主从复制和哨兵.md",
+    "redis/集群.md",
+    "redis/sentinel哨兵.md",
     "redis/哨兵 1.md",
     "redis/安装与卸载.md",
     "redis/redis管道.md",
