@@ -1,19 +1,17 @@
 #  docker安装 
 
-### 卸载旧版本
+### 卸载
 
 ```shell
-yum remove docker \
-                  docker-client \
-                  docker-client-latest \
-                  docker-common \
-                  docker-latest \
-                  docker-latest-logrotate \
-                  docker-logrotate \
-                  docker-engine
+yum -y remove \
+docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine docker-buildx-plugin.x86_64 docker-ce-cli.x86_64  docker-ce-rootless-extras.x86_64 docker-ce.x86_64 docker-compose-plugin.x86_64
 ```
 
-^ad12c0
+删除容器,镜像等文件
+
+```shell
+rm -rf /var/lib/docker /var/lib/containerd
+```
 
 ### 安装yum-utils
 
@@ -36,7 +34,7 @@ yum-config-manager --add-repo https://mirrors.aliyun.com/docker-ce/linux/centos/
 ### 安装docker引擎
 
 ```shell
-yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+yum -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
 或者指定版本
@@ -51,17 +49,7 @@ sudo yum install docker-ce-<VERSION_STRING> docker-ce-cli-<VERSION_STRING> conta
 ### 开始运行
 
 ```shell
-systemctl start docker
-# 自启
-systemctl enable docker
-```
-
-### 卸载
-
-先执行第一步卸载版本,再删除容器等文件
-
-```shell
-rm -rf /var/lib/docker /var/lib/containerd
+systemctl start docker ; systemctl enable docker
 ```
 
 ### 配置加速器
