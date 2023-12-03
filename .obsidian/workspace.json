@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54ca1669cabad18f",
+        "id": "82d7f047d3ff444b",
         "type": "tabs",
         "children": [
           {
-            "id": "fff73d4eed49190d",
+            "id": "e944a0a790773d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker安装.md",
+                "file": "docker/docker私有库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker安装.md"
+                "file": "docker/docker私有库.md"
               }
             }
           }
@@ -104,8 +104,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fff73d4eed49190d",
+  "active": "e944a0a790773d93",
   "lastOpenFiles": [
+    "docker/docker安装.md",
+    "docker/常见服务.md",
+    "docker/docker私有库.md",
+    "docker/Dockerfile.md",
+    "docker/portainer.md",
+    "mysql/SQL.md",
+    "mysql/安装与卸载.md",
+    "mysql",
     "redis/springboot集成.md",
     "redis/安装与卸载.md",
     "redis/持久化.md",
@@ -131,18 +139,11 @@
     "Docker2022 1.mmap",
     "Docker2022.mmap",
     "redis",
-    "docker/docker运行其他服务.md",
     "linux",
     "Pasted image 20231121155035.png",
     "Pasted image 20231121155124.png",
-    "docker/docker私有库.md",
-    "docker/docker安装.md",
-    "docker/Dockerfile.md",
-    "docker/portainer.md",
     "git/git.md",
     "docker/docker安装^ad12c0.md",
-    "docker/docker compose/dockerfile.md",
-    "docker/docker compose/a.md",
-    "docker/docker compose/fefe.md"
+    "docker/docker compose/dockerfile.md"
   ]
 }
