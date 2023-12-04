@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker私有库.md",
+                "file": "docker/常见服务.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker私有库.md"
+                "file": "docker/常见服务.md"
               }
             }
           }
@@ -106,13 +106,13 @@
   },
   "active": "e944a0a790773d93",
   "lastOpenFiles": [
+    "mysql/安装与卸载.md",
+    "mysql/SQL规范.md",
+    "docker/docker私有库.md",
     "docker/docker安装.md",
     "docker/常见服务.md",
-    "docker/docker私有库.md",
     "docker/Dockerfile.md",
     "docker/portainer.md",
-    "mysql/SQL.md",
-    "mysql/安装与卸载.md",
     "mysql",
     "redis/springboot集成.md",
     "redis/安装与卸载.md",
