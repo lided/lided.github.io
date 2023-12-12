@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82d7f047d3ff444b",
+        "id": "121e7b36ec3c8f74",
         "type": "tabs",
         "children": [
           {
-            "id": "e944a0a790773d93",
+            "id": "edeaf698378c9b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/常见服务.md",
+                "file": "docker/docker私有库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/常见服务.md"
+                "file": "docker/docker私有库.md"
               }
             }
           }
@@ -104,14 +103,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e944a0a790773d93",
+  "active": "edeaf698378c9b8a",
   "lastOpenFiles": [
-    "mysql/安装与卸载.md",
-    "mysql/SQL规范.md",
-    "docker/docker私有库.md",
-    "docker/docker安装.md",
-    "docker/常见服务.md",
     "docker/Dockerfile.md",
+    "docker/docker私有库.md",
+    "docker/常见服务.md",
+    "正则/1.md",
+    "未命名.canvas",
+    "qqq.canvas",
+    "mysql/SQL规范.md",
+    "docker/安装卸载.md",
+    "mysql/安装与卸载.md",
     "docker/portainer.md",
     "mysql",
     "redis/springboot集成.md",
@@ -125,7 +127,6 @@
     "redis/10大数据类型.md",
     "redis/redis事务.md",
     "redis/命令.md",
-    "正则/1.md",
     "正则",
     "bzd.canvas",
     "linux/防火墙.md",
@@ -135,7 +136,6 @@
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "qqq.canvas",
     "Docker2022 1.mmap",
     "Docker2022.mmap",
     "redis",
@@ -143,7 +143,6 @@
     "Pasted image 20231121155035.png",
     "Pasted image 20231121155124.png",
     "git/git.md",
-    "docker/docker安装^ad12c0.md",
-    "docker/docker compose/dockerfile.md"
+    "docker/docker安装^ad12c0.md"
   ]
 }
