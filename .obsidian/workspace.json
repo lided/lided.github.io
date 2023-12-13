@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker私有库.md",
+                "file": "git/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker私有库.md"
+                "file": "git/git.md"
               }
             }
           }
@@ -105,8 +106,8 @@
   },
   "active": "edeaf698378c9b8a",
   "lastOpenFiles": [
-    "docker/Dockerfile.md",
     "docker/docker私有库.md",
+    "docker/Dockerfile.md",
     "docker/常见服务.md",
     "正则/1.md",
     "未命名.canvas",
