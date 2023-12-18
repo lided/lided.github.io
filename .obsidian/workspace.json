@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
-                "mode": "source",
+                "file": "docker/常见服务.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.md"
+                "file": "docker/常见服务.md"
               }
             }
           }
@@ -104,11 +104,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edeaf698378c9b8a",
+  "active": "1c87ef4150171b05",
   "lastOpenFiles": [
+    "rabbitmq/交换机.md",
+    "docker/常见服务.md",
+    "git/git.md",
+    "rabbitmq",
     "docker/docker私有库.md",
     "docker/Dockerfile.md",
-    "docker/常见服务.md",
     "正则/1.md",
     "未命名.canvas",
     "qqq.canvas",
@@ -143,7 +146,6 @@
     "linux",
     "Pasted image 20231121155035.png",
     "Pasted image 20231121155124.png",
-    "git/git.md",
     "docker/docker安装^ad12c0.md"
   ]
 }
