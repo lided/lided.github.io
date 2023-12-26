@@ -9,5 +9,8 @@
   "useTab": false,
   "promptDelete": false,
   "foldIndent": false,
-  "attachmentFolderPath": "rabbitm1"
+  "attachmentFolderPath": "/",
+  "useMarkdownLinks": true,
+  "autoPairMarkdown": true,
+  "autoConvertHtml": false
 }

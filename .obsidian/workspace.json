@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -106,17 +105,21 @@
   },
   "active": "1c87ef4150171b05",
   "lastOpenFiles": [
-    "rabbitmq/交换机.md",
+    "docker/安装卸载.md",
     "docker/常见服务.md",
+    "消息队列/rabbitmq/消息可靠性.md",
+    "消息队列/rabbitmq.md",
+    "消息队列/rabbitmq",
+    "消息队列",
+    "rabbitmq/交换机.md",
     "git/git.md",
     "rabbitmq",
     "docker/docker私有库.md",
     "docker/Dockerfile.md",
-    "正则/1.md",
+    "regular/1.md",
     "未命名.canvas",
     "qqq.canvas",
     "mysql/SQL规范.md",
-    "docker/安装卸载.md",
     "mysql/安装与卸载.md",
     "docker/portainer.md",
     "mysql",
@@ -131,12 +134,11 @@
     "redis/10大数据类型.md",
     "redis/redis事务.md",
     "redis/命令.md",
-    "正则",
+    "regular",
     "bzd.canvas",
     "linux/防火墙.md",
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
-    "redis/[Commands.md",
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
@@ -145,7 +147,6 @@
     "redis",
     "linux",
     "Pasted image 20231121155035.png",
-    "Pasted image 20231121155124.png",
-    "docker/docker安装^ad12c0.md"
+    "Pasted image 20231121155124.png"
   ]
 }
