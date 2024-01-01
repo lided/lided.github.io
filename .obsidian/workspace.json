@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/常见服务.md",
-                "mode": "preview",
+                "file": "front/vue/未命名.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/常见服务.md"
+                "file": "front/vue/未命名.md"
               }
             }
           }
@@ -103,10 +103,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "edeaf698378c9b8a",
   "lastOpenFiles": [
-    "docker/安装卸载.md",
     "docker/常见服务.md",
+    "front/vue/未命名.md",
+    "front/vue",
+    "front",
+    "docker/安装卸载.md",
     "消息队列/rabbitmq/消息可靠性.md",
     "消息队列/rabbitmq.md",
     "消息队列/rabbitmq",
@@ -138,14 +141,12 @@
     "bzd.canvas",
     "linux/防火墙.md",
     "linux/ifcfg-enc33.md",
-    "linux/systemctl.md",
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
     "Docker2022 1.mmap",
     "Docker2022.mmap",
     "redis",
-    "linux",
     "Pasted image 20231121155035.png",
     "Pasted image 20231121155124.png"
   ]
