@@ -25,6 +25,11 @@ export default createRouter({
 })
 ```
 
+```
+import router from './assets/router'
+app.use(router)
+```
+
 ## pinia
 
 ```
@@ -37,6 +42,11 @@ export default defineStore('id', {
     actions: {
     },
 })
+```
+
+```
+import {createPinia} from 'pinia'
+app.use(createPinia())
 ```
 
 ## axios
