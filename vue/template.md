@@ -1,19 +1,23 @@
 ## vue3
 
 ```
+<script setup>
+</script>
 <template>
     <div>
         
     </div>
 </template>
-<script setup>
-</script>
 <style scoped>
     
 </style>
 ```
 
 ## router
+
+```
+npm install vue-router
+```
 
 ```
 import { createRouter, createWebHashHistory } from 'vue-router'
