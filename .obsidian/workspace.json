@@ -11,8 +11,13 @@
             "id": "30155b1b67bffbc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mysql/user and authority.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,15 +86,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mysql/user and authority.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -100,6 +106,9 @@
   },
   "active": "30155b1b67bffbc2",
   "lastOpenFiles": [
+    "mysql/SQL规范.md",
+    "mysql/user and authority.md",
+    "mysql/安装与卸载.md",
     "docker/docker compose/compose.example.md",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
@@ -122,8 +131,6 @@
     "regular/1.md",
     "未命名.canvas",
     "qqq.canvas",
-    "mysql/SQL规范.md",
-    "mysql/安装与卸载.md",
     "docker/portainer.md",
     "mysql",
     "redis/springboot集成.md",
