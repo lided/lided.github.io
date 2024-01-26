@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3cde144f8ae8ae16",
+        "id": "2d8aeca0e58889ee",
         "type": "tabs",
         "children": [
           {
-            "id": "30155b1b67bffbc2",
+            "id": "3bd1797920a7dc04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/user and authority.md",
+                "file": "vue/template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/user and authority.md"
+                "file": "vue/template.md"
               }
             }
           }
@@ -104,16 +104,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30155b1b67bffbc2",
+  "active": "3bd1797920a7dc04",
   "lastOpenFiles": [
+    "vue/template.md",
+    "mysql/install.md",
+    "mysql/fe.md",
     "mysql/SQL规范.md",
     "mysql/user and authority.md",
-    "mysql/安装与卸载.md",
     "docker/docker compose/compose.example.md",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
     "redis/集群.md",
-    "vue/template.md",
     "docker/常见服务.md",
     "front/vue/未命名.md",
     "front/vue",
@@ -141,7 +142,6 @@
     "redis/哨兵 1.md",
     "redis/redis管道.md",
     "redis/10大数据类型.md",
-    "redis/redis事务.md",
     "regular",
     "bzd.canvas",
     "未命名 2.canvas",
