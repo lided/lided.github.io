@@ -1,4 +1,4 @@
-# frist
+## create
 
 ```sh
 npm create vite -- --template vue-ts

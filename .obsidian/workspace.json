@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/starter.md",
+                "file": "vue3/dev-proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/starter.md"
+                "file": "vue3/dev-proxy.md"
               }
             }
           }
@@ -106,15 +106,18 @@
   },
   "active": "3bd1797920a7dc04",
   "lastOpenFiles": [
-    "vue/router.md",
-    "vue/element-plus.md",
-    "vue/plugin.md",
-    "vue/starter.md",
-    "vue/router.md.md",
+    "vue3/plugin.md",
+    "vue3/dev-proxy.md",
+    "vue3/router.md",
+    "vue3/svg-icon.md",
+    "vue3/starter.md",
+    "vue3/element-plus.md",
+    "regular/1.md",
     "mysql/install.md",
-    "mysql/fe.md",
     "mysql/SQL规范.md",
     "mysql/user and authority.md",
+    "vue/router.md.md",
+    "mysql/fe.md",
     "docker/docker compose/compose.example.md",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
@@ -133,15 +136,12 @@
     "rabbitmq",
     "docker/docker私有库.md",
     "docker/Dockerfile.md",
-    "regular/1.md",
     "未命名.canvas",
     "qqq.canvas",
     "docker/portainer.md",
     "mysql",
     "redis/springboot集成.md",
     "redis/安装与卸载.md",
-    "redis/持久化.md",
-    "redis/主从复制和哨兵.md",
     "regular",
     "bzd.canvas",
     "未命名 2.canvas",
