@@ -4,8 +4,9 @@
 npm i path
 ```
 
+>  vite.config.ts
+
 ```ts
-// vite.config.ts
 import path from 'path'
 
 export default defineConfig({
@@ -17,8 +18,9 @@ export default defineConfig({
 });
 ```
 
+> tsconfig.json
+
 ```json
-// tsconfig.json
 {
   "compilerOptions": {
     "baseUrl": "./",
