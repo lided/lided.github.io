@@ -1,14 +1,21 @@
-```sh
-npm install vue-router
+## 项目导入router
+
+` ``sh
+npm i vue-router
 ```
 
-```main.ts
+## main.ts导入router
+
+```ts
 import router from '@/router'
 app.use(router)
 ```
 
-```router.ts
-import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
+## router配置
+
+```ts
+import { createRouter , createWebHistory } from 'vue-router'
+// lazy loading
 const UserDetails = () => import('path/to/UserDetails.vue')
 export default createRouter({
     history: createWebHistory(),

@@ -1,16 +1,23 @@
+# frist
+
+```sh
+npm create vite -- --template vue-ts
+```
+
 ## vue3
 
 ```
-<script setup>
+<script setup lang="ts">
+
 </script>
+
 <template>
-    <div>
-        
-    </div>
+  
 </template>
+
 <style scoped>
-    
 </style>
+
 ```
 
 ## pinia
@@ -32,7 +39,7 @@ import {createPinia} from 'pinia'
 app.use(createPinia())
 ```
 
-## axios
+# axios
 
 ```
 import axios from 'axios'
