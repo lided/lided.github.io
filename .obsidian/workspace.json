@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/template.md",
+                "file": "vue/router.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/template.md"
+                "file": "vue/router.md"
               }
             }
           }
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,6 +107,8 @@
   "active": "3bd1797920a7dc04",
   "lastOpenFiles": [
     "vue/template.md",
+    "vue/router.md.md",
+    "vue/router.md",
     "mysql/install.md",
     "mysql/fe.md",
     "mysql/SQL规范.md",
@@ -140,8 +142,6 @@
     "redis/主从复制和哨兵.md",
     "redis/sentinel哨兵.md",
     "redis/哨兵 1.md",
-    "redis/redis管道.md",
-    "redis/10大数据类型.md",
     "regular",
     "bzd.canvas",
     "未命名 2.canvas",

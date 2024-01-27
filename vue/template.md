@@ -13,29 +13,6 @@
 </style>
 ```
 
-## router
-
-```
-npm install vue-router
-```
-
-```
-import router from './assets/router'
-app.use(router)
-```
-
-```
-import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
-const UserDetails = () => import('path/to/UserDetails.vue')
-export default createRouter({
-    history: createWebHistory(),
-    routes: [
-        { path: '/', component: xxx },
-        { path: '/', component: () => import('path/to/UserDetails.vue') },
-    ]
-})
-```
-
 ## pinia
 
 ```
