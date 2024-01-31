@@ -38,24 +38,3 @@ export default defineStore('id', {
 import {createPinia} from 'pinia'
 app.use(createPinia())
 ```
-
-# axios
-
-```
-import axios from 'axios'
- const R = axios.create({
-    // baseURL:'',
-    // timeout:'',
-})
-R.interceptors.request.use((config)=>{
-return config 
-},(error)=>{
-    return Promise.reject('error')
-})
-R.interceptors.response.use((resp)=>{
-    return resp
-},(error)=>{
-    return Promise.reject('error')
-})
-export default R
-```
