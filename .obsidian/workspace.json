@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "vue3/element-plus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.md"
+                "file": "vue3/element-plus.md"
               }
             }
           }
@@ -105,15 +105,16 @@
   },
   "active": "29147621b32e9ec6",
   "lastOpenFiles": [
+    "vue3/dev-proxy.md",
+    "vue3/axios.md",
     "vue3/starter.md",
+    "vue3/svg-icon.md",
+    "git/git.md",
     "vue3/router.md",
     "vue3/plugin.md",
-    "vue3/axios.md",
-    "vue3/dev-proxy.md",
     "images/Pasted image 20240203114409.png",
     "images/Pasted image 20240203114452.png",
     "images/Pasted image 20240203114331.png",
-    "vue3/svg-icon.md",
     "vue3/element-plus.md",
     "a未命名.md",
     "Pasted image 20240203114310.png",
@@ -141,7 +142,6 @@
     "消息队列/rabbitmq",
     "消息队列",
     "rabbitmq/交换机.md",
-    "git/git.md",
     "rabbitmq",
     "docker/docker私有库.md",
     "docker/Dockerfile.md",
