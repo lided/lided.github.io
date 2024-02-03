@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/组件传值.md",
+                "file": "springboot/mybatis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue3/组件传值.md"
+                "file": "springboot/mybatis.md"
               }
             }
           },
@@ -122,8 +122,13 @@
   },
   "active": "e8562d5aac7dea68",
   "lastOpenFiles": [
-    "vue3/a.md",
     "vue3/组件传值.md",
+    "springboot/mybatis.md",
+    "springboot/mybatis/未命名.md",
+    "springboot/mybatis",
+    "springboot",
+    "database",
+    "vue3/a.md",
     "images/Pasted image 20240203155551.png",
     "vue3/element-plus.md",
     "images/Pasted image 20240203124653.png",
@@ -144,15 +149,15 @@
     "Pasted image 20240203114119.png",
     "Pasted image 20240203113709.png",
     "regular/1.md",
-    "mysql/install.md",
-    "mysql/SQL规范.md",
-    "mysql/user and authority.md",
+    "database/mysql/install.md",
+    "database/mysql/SQL规范.md",
+    "database/mysql/user and authority.md",
     "vue/router.md.md",
     "mysql/fe.md",
     "docker/docker compose/compose.example.md",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
-    "redis/集群.md",
+    "database/redis/集群.md",
     "docker/常见服务.md",
     "front/vue/未命名.md",
     "front/vue",
@@ -162,12 +167,8 @@
     "消息队列/rabbitmq.md",
     "消息队列/rabbitmq",
     "消息队列",
-    "rabbitmq/交换机.md",
-    "rabbitmq",
     "未命名.canvas",
     "qqq.canvas",
-    "mysql",
-    "regular",
     "bzd.canvas",
     "未命名 2.canvas",
     "未命名 3.canvas",
