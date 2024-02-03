@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8aeca0e58889ee",
+        "id": "28ceb837cda6346b",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd1797920a7dc04",
+            "id": "29147621b32e9ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/axios.md",
+                "file": "git/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue3/axios.md"
+                "file": "git/git.md"
               }
             }
           }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -103,15 +103,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3bd1797920a7dc04",
+  "active": "29147621b32e9ec6",
   "lastOpenFiles": [
     "vue3/starter.md",
-    "vue3/axios.md",
-    "vue3/dev-proxy.md",
     "vue3/router.md",
     "vue3/plugin.md",
-    "vue3/element-plus.md",
+    "vue3/axios.md",
+    "vue3/dev-proxy.md",
+    "images/Pasted image 20240203114409.png",
+    "images/Pasted image 20240203114452.png",
+    "images/Pasted image 20240203114331.png",
     "vue3/svg-icon.md",
+    "vue3/element-plus.md",
+    "a未命名.md",
+    "Pasted image 20240203114310.png",
+    "images",
+    "Pasted image 20240203114218.png",
+    "Pasted image 20240203114119.png",
+    "Pasted image 20240203113709.png",
     "regular/1.md",
     "mysql/install.md",
     "mysql/SQL规范.md",
@@ -138,15 +147,12 @@
     "docker/Dockerfile.md",
     "未命名.canvas",
     "qqq.canvas",
-    "docker/portainer.md",
     "mysql",
-    "redis/springboot集成.md",
     "regular",
     "bzd.canvas",
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "Docker2022 1.mmap",
     "Pasted image 20231121155035.png",
     "Pasted image 20231121155124.png"
   ]

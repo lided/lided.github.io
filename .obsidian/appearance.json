@@ -1,12 +1,13 @@
 {
-  "accentColor": "#cd6af0",
+  "accentColor": "#c640f7",
   "theme": "system",
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "",
   "interfaceFontFamily": "Microsoft YaHei,Microsoft YaHei UI",
   "textFontFamily": "Microsoft YaHei",
   "monospaceFontFamily": "Microsoft YaHei",
-  "baseFontSize": 18,
-  "showViewHeader": false
+  "baseFontSize": 20,
+  "showViewHeader": false,
+  "baseFontSizeAction": false
 }

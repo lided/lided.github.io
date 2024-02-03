@@ -1,10 +1,10 @@
-## 项目导入router
+## 项目导入
 
-` ``sh
+```sh
 npm i vue-router
 ```
 
-## main.ts导入router
+> main.ts
 
 ```ts
 import router from '@/router'
