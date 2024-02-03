@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/element-plus.md",
+                "file": "vue3/组件传值.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue3/element-plus.md"
+                "file": "vue3/组件传值.md"
               }
             }
           },
@@ -122,11 +122,13 @@
   },
   "active": "e8562d5aac7dea68",
   "lastOpenFiles": [
-    "images/Pasted image 20240203124653.png",
+    "vue3/a.md",
+    "vue3/组件传值.md",
+    "images/Pasted image 20240203155551.png",
     "vue3/element-plus.md",
+    "images/Pasted image 20240203124653.png",
     "vue3/axios.md",
     "vue3/router.md",
-    "vue3/a.md",
     "vue3/svg-icon.md",
     "vue3/starter.md",
     "vue3/plugin.md",
@@ -162,7 +164,6 @@
     "消息队列",
     "rabbitmq/交换机.md",
     "rabbitmq",
-    "docker/docker私有库.md",
     "未命名.canvas",
     "qqq.canvas",
     "mysql",
@@ -171,7 +172,6 @@
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "Pasted image 20231121155035.png",
-    "Pasted image 20231121155124.png"
+    "Pasted image 20231121155035.png"
   ]
 }
