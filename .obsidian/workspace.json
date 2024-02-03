@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6dc9af50d39dbe3",
+        "id": "aa94d1dfc77f86ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e8562d5aac7dea68",
+            "id": "025b57014827ab6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/mybatis.md",
+                "file": "springboot/global-exception-handler.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/mybatis.md"
+                "file": "springboot/global-exception-handler.md"
               }
             }
           },
@@ -120,10 +120,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8562d5aac7dea68",
+  "active": "025b57014827ab6d",
   "lastOpenFiles": [
-    "vue3/组件传值.md",
+    "springboot/global-exception-handler.md",
     "springboot/mybatis.md",
+    "vue3/组件传值.md",
     "springboot/mybatis/未命名.md",
     "springboot/mybatis",
     "springboot",
@@ -164,7 +165,6 @@
     "front",
     "docker/安装卸载.md",
     "消息队列/rabbitmq/消息可靠性.md",
-    "消息队列/rabbitmq.md",
     "消息队列/rabbitmq",
     "消息队列",
     "未命名.canvas",
