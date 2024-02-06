@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/global-exception-handler.md",
+                "file": "database/elasticsearch/query.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/global-exception-handler.md"
+                "file": "database/elasticsearch/query.md"
               }
             }
           },
@@ -122,7 +122,14 @@
   },
   "active": "025b57014827ab6d",
   "lastOpenFiles": [
+    "database/elasticsearch/quickstart.md",
+    "database/elasticsearch/query.md",
+    "database/mysql/SQL规范.md",
+    "docker/安装卸载.md",
+    "database/mysql/install.md",
     "springboot/global-exception-handler.md",
+    "database/elasticsearch",
+    "database/未命名.md",
     "springboot/mybatis.md",
     "vue3/组件传值.md",
     "springboot/mybatis/未命名.md",
@@ -150,8 +157,6 @@
     "Pasted image 20240203114119.png",
     "Pasted image 20240203113709.png",
     "regular/1.md",
-    "database/mysql/install.md",
-    "database/mysql/SQL规范.md",
     "database/mysql/user and authority.md",
     "vue/router.md.md",
     "mysql/fe.md",
@@ -159,14 +164,9 @@
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
     "database/redis/集群.md",
-    "docker/常见服务.md",
-    "front/vue/未命名.md",
     "front/vue",
     "front",
-    "docker/安装卸载.md",
-    "消息队列/rabbitmq/消息可靠性.md",
     "消息队列/rabbitmq",
-    "消息队列",
     "未命名.canvas",
     "qqq.canvas",
     "bzd.canvas",
