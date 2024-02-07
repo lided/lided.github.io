@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/elasticsearch/query.md",
+                "file": "docker/安装卸载.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/elasticsearch/query.md"
+                "file": "docker/安装卸载.md"
               }
             }
           },
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",

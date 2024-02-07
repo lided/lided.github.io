@@ -1,20 +1,30 @@
 # \_cat
 
 ```
-/_cat/indices?
+# 查询所有索引信息
+GET /_cat/indices
+
+# 主节点信息
+GET /_cat/master
+
+# 节点信息
+GET /_cat/nodes
+
+# 健康信息
+GET /_cat/health
 ```
 
 # indexes
 
 ```
 添加索引
-PUT /index1
+PUT /[index_name]
 
 //删除索引
-DELETE /index1
+DELETE /[index_name]
 
 # 查询索引下所有文档
-GET /index1/_search
+GET /[index_name]/_search
 
 ```
 
