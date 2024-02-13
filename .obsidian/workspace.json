@@ -11,8 +11,13 @@
             "id": "0f51ed49d6067388",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -115,7 +122,7 @@
   },
   "active": "0f51ed49d6067388",
   "lastOpenFiles": [
-    "docker/readme.md",
+    "readme.md",
     "docker/安装卸载.md",
     "database/elasticsearch/quickstart.md",
     "database/elasticsearch/query.md",
