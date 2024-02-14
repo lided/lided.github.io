@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/常见服务.md",
+                "file": "database/redis/持久化.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/常见服务.md"
+                "file": "database/redis/持久化.md"
               }
             }
           },
@@ -119,15 +119,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a435bdd1345af573",
+  "active": "1c87ef4150171b05",
   "lastOpenFiles": [
-    "docker/docker-compose.md",
+    "database/redis/安装与卸载.md",
+    "docker/Dockerfile.md",
+    "database/redis/docker-redis.md",
     "docker/常见服务.md",
+    "docker/docker-compose.md",
     "database/redis/集群.md",
     "database/redis/持久化.md",
     "database/redis/命令.md",
-    "database/redis/docker-redis.md",
-    "docker/Dockerfile.md",
     "docker/安装卸载.md",
     "readme.md",
     "database/elasticsearch/quickstart.md",
@@ -152,7 +153,6 @@
     "vue3/svg-icon.md",
     "vue3/starter.md",
     "vue3/plugin.md",
-    "vue3/dev-proxy.md",
     "images/Pasted image 20240203114409.png",
     "images/Pasted image 20240203114452.png",
     "images/Pasted image 20240203114331.png",
