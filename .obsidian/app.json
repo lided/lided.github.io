@@ -6,12 +6,13 @@
   "foldHeading": false,
   "showLineNumber": true,
   "vimMode": false,
-  "useTab": true,
+  "useTab": false,
   "promptDelete": false,
   "foldIndent": false,
   "attachmentFolderPath": "/images",
   "useMarkdownLinks": true,
   "autoPairMarkdown": true,
   "autoConvertHtml": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "tabSize": 3
 }

@@ -5,6 +5,7 @@ services:
     image: centos:7
     container_name: xxx
     restart: always
+    command: ["run","xxx"]
     networks:
       - net
     environment:
