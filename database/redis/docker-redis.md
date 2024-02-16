@@ -1,4 +1,4 @@
-# 拉取镜像
+ 拉取镜像
 
 ```sh
 docker pull redis:7.0.15
