@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "springboot/global-exception-handler.md",
+                "file": "database/redis/cluster.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/global-exception-handler.md"
+                "file": "database/redis/cluster.md"
               }
             }
           },
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,22 +121,22 @@
   },
   "active": "db7a6c01aba9a86b",
   "lastOpenFiles": [
-    "springboot/mybatis.md",
-    "springboot/global-exception-handler.md",
+    "database/redis/持久化.md",
+    "database/redis/cluster.md",
+    "database/redis/install.md",
+    "docker/常见服务.md",
     "docker私有库.md",
+    "springboot/global-exception-handler.md",
+    "springboot/mybatis.md",
     "readme.md",
     "docker/install.md",
     "docker/Dockerfile.md",
-    "docker/常见服务.md",
-    "database/redis/集群.md",
-    "database/redis/安装与卸载.md",
     "database/redis/命令.md",
     "database/redis/redis事务.md",
     "database/redis/springboot集成.md",
     "database/redis/docker-redis.md",
     "database/redis/redis管道.md",
     "database/redis/主从复制和哨兵.md",
-    "database/redis/持久化.md",
     "docker/docker-compose.md",
     "database/elasticsearch/quickstart.md",
     "database/elasticsearch/query.md",

@@ -31,13 +31,20 @@ cluster-node-timeout 15000
 后面将需要添加集群的机器加入
 
 ```
-redis-cli -a lide --cluster create --cluster-replicas 1 192.168.217.100:6379 192.168.217.100:6380 192.168.217.102:6379 192.168.217.102:6380 192.168.217.103:6379 192.168.217.103:6380
+redis-cli --cluster create --cluster-replicas 1 [ip:port]+
 ```
 
-连接任意一台redis使用命令查看
+查看cluster信息
+
+```sh
+redis-cli --cluster check <cluster_ip>
+```
+
+连接集群内任意一台redis查看集群节点信息
 
 ```
 cluster nodes
+cluster info
 ```
 
 ## 使用
@@ -45,7 +52,7 @@ cluster nodes
 在登录命令后加`-c` 选项告诉 `redis-cli` 在集群模式下运行。
 
 ```
-redis-cli -a lide -p 6379 -c
+redis-cli -a <pwd> -p 6379 -c
 ```
 
 查看key属于在那个槽位
@@ -60,10 +67,9 @@ cluster keyslot <key>
 cluster countkeysinslot
 ```
 
-手动调整cluster内部主从关系
+将slave自己和对应master交换(在slave节点上操作)
 
 ```
-#将slave自己和对用master交换
 cluster failover
 ```
 
