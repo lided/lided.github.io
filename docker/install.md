@@ -1,9 +1,9 @@
-### 卸载
+### 卸载旧版本
 
-```shell
-sudo yum -y remove \
-docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine docker-buildx-plugin.x86_64 docker-ce-cli.x86_64  docker-ce-rootless-extras.x86_64 docker-ce.x86_64 docker-compose-plugin.x86_64 containerd.io.x86_64
+```sh
+sudo yum list installed | grep docker | xargs yum -y remove
 ```
+
 
 删除容器,镜像等文件
 

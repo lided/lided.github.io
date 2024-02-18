@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a814eed9452c2ddd",
+        "id": "c260bf5fa01a8193",
         "type": "tabs",
         "children": [
           {
-            "id": "a435bdd1345af573",
+            "id": "db7a6c01aba9a86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/redis/集群.md",
+                "file": "springboot/global-exception-handler.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/redis/集群.md"
+                "file": "springboot/global-exception-handler.md"
               }
             }
           },
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,30 +120,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a435bdd1345af573",
+  "active": "db7a6c01aba9a86b",
   "lastOpenFiles": [
-    "database/redis/安装与卸载.md",
-    "database/redis/命令.md",
+    "springboot/mybatis.md",
+    "springboot/global-exception-handler.md",
+    "docker私有库.md",
+    "readme.md",
+    "docker/install.md",
+    "docker/Dockerfile.md",
     "docker/常见服务.md",
     "database/redis/集群.md",
+    "database/redis/安装与卸载.md",
+    "database/redis/命令.md",
     "database/redis/redis事务.md",
     "database/redis/springboot集成.md",
     "database/redis/docker-redis.md",
     "database/redis/redis管道.md",
     "database/redis/主从复制和哨兵.md",
     "database/redis/持久化.md",
-    "docker/安装卸载.md",
-    "docker/Dockerfile.md",
     "docker/docker-compose.md",
-    "readme.md",
     "database/elasticsearch/quickstart.md",
     "database/elasticsearch/query.md",
     "database/mysql/SQL规范.md",
     "database/mysql/install.md",
-    "springboot/global-exception-handler.md",
     "database/elasticsearch",
     "database/未命名.md",
-    "springboot/mybatis.md",
     "vue3/组件传值.md",
     "springboot/mybatis/未命名.md",
     "springboot/mybatis",
@@ -152,7 +154,6 @@
     "images/Pasted image 20240203155551.png",
     "vue3/element-plus.md",
     "images/Pasted image 20240203124653.png",
-    "vue3/axios.md",
     "images/Pasted image 20240203114409.png",
     "images/Pasted image 20240203114452.png",
     "images/Pasted image 20240203114331.png",
