@@ -47,13 +47,13 @@ sudo yum install docker-ce-<VERSION_STRING> docker-ce-cli-<VERSION_STRING> conta
 ### 配置加速器
 
 ```sh
-sudo echo '{
-  "registry-mirrors":["https://v49t3g9l.mirror.aliyuncs.com","https://registry.docker-cn.com"]
-}' > /etc/docker/daemon.json
+echo '{
+  "registry-mirrors":["https://v49t3g9l.mirror.aliyuncs.com"]
+}' | sudo tee /etc/docker/daemon.json         
 ```
 
 ### 开始运行
 
 ```shell
-sudo systemctl start docker ; systemctl enable docker
+sudo systemctl start docker ; sudo systemctl enable docker
 ```
