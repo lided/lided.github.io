@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,6 +121,7 @@
   },
   "active": "41536cad89fd98bb",
   "lastOpenFiles": [
+    "database/mysql/images/Pasted image 20240220195222.png",
     "database/mysql/images/Pasted image 20240220194453.png",
     "database/mysql/images/Pasted image 20240220194207.png",
     "database/mysql/install.md",
@@ -164,7 +164,6 @@
     "springboot/mybatis",
     "springboot",
     "database",
-    "images/Pasted image 20240203155551.png",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
     "未命名.canvas",
