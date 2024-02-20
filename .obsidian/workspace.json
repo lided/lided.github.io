@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "database/mysql/事务.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "database/mysql/事务.md"
               }
             }
           },
@@ -120,8 +120,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "ddfadc462ece7675",
   "lastOpenFiles": [
+    "database/mysql/SQL.md",
+    "database/mysql/事务.md",
+    "readme.md",
     "docker私有库.md",
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
@@ -135,7 +138,6 @@
     "docker/常见服务.md",
     "springboot/global-exception-handler.md",
     "springboot/mybatis.md",
-    "readme.md",
     "database/redis/命令.md",
     "database/redis/redis事务.md",
     "database/redis/springboot集成.md",
@@ -145,11 +147,9 @@
     "docker/docker-compose.md",
     "database/elasticsearch/quickstart.md",
     "database/elasticsearch/query.md",
-    "database/mysql/SQL规范.md",
     "database/mysql/install.md",
     "database/elasticsearch",
     "database/未命名.md",
-    "vue3/组件传值.md",
     "springboot/mybatis",
     "springboot",
     "database",
