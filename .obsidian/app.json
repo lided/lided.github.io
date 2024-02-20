@@ -1,6 +1,6 @@
 {
   "showInlineTitle": false,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "livePreview": true,
   "strictLineBreaks": true,
   "foldHeading": false,
@@ -9,10 +9,11 @@
   "useTab": false,
   "promptDelete": false,
   "foldIndent": false,
-  "attachmentFolderPath": "/images",
+  "attachmentFolderPath": "images",
   "useMarkdownLinks": true,
   "autoPairMarkdown": true,
   "autoConvertHtml": false,
-  "newLinkFormat": "relative",
-  "tabSize": 3
+  "newLinkFormat": "absolute",
+  "tabSize": 3,
+  "newFileFolderPath": "/"
 }
