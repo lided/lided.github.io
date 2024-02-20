@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/事务.md",
+                "file": "database/mysql/存储引擎.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/事务.md"
+                "file": "database/mysql/存储引擎.md"
               }
             }
           },
@@ -107,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,11 +121,16 @@
   },
   "active": "41536cad89fd98bb",
   "lastOpenFiles": [
+    "database/mysql/images/Pasted image 20240220210005.png",
+    "database/mysql/images/Pasted image 20240220205719.png",
+    "database/mysql/images/Pasted image 20240220205541.png",
+    "database/mysql/存储引擎.md",
+    "database/mysql/images/Pasted image 20240220205100.png",
+    "database/mysql/事务.md",
     "database/mysql/images/Pasted image 20240220195222.png",
     "database/mysql/images/Pasted image 20240220194453.png",
     "database/mysql/images/Pasted image 20240220194207.png",
     "database/mysql/install.md",
-    "database/mysql/事务.md",
     "database/mysql/SQL.md",
     "conflict-files-obsidian-git.md",
     "images/Pasted image 20240220192539.png",
@@ -136,11 +139,7 @@
     "database/mysql/images",
     "database/mysql/Pasted image 20240220192443.png",
     "database/mysql/Pasted image 20240220192349.png",
-    "database/mysql/Pasted image 20240220192307.png",
-    "database/mysql/Pasted image 20240220191951.png",
     "database/mysql/Pasted.md",
-    "database/mysql/Pasted image 20240220192128.png",
-    "database/mysql/Pasted image 20240220192141.png",
     "readme.md",
     "docker私有库.md",
     "linux/ifcfg-enc33.md",
@@ -161,7 +160,6 @@
     "database/redis/docker-redis.md",
     "database/redis/redis管道.md",
     "database/redis/主从复制和哨兵.md",
-    "docker/docker-compose.md",
     "database/elasticsearch",
     "springboot/mybatis",
     "springboot",
