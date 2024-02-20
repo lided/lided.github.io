@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff993ea9c290e60f",
+        "id": "5c0d37ddc5211777",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfadc462ece7675",
+            "id": "41536cad89fd98bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,10 +120,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ddfadc462ece7675",
+  "active": "41536cad89fd98bb",
   "lastOpenFiles": [
-    "database/mysql/SQL.md",
+    "images/Pasted image 20240220192539.png",
+    "database/mysql/Pasted image 20240220192443.png",
     "database/mysql/事务.md",
+    "database/mysql/Pasted image 20240220192349.png",
+    "images",
+    "database/mysql/Pasted image 20240220192307.png",
+    "database/mysql/Pasted image 20240220191951.png",
+    "database/mysql/Pasted.md",
+    "database/mysql/SQL.md",
+    "database/mysql/Pasted image 20240220192128.png",
+    "database/mysql/Pasted image 20240220192141.png",
     "readme.md",
     "docker私有库.md",
     "linux/ifcfg-enc33.md",
@@ -147,9 +156,7 @@
     "docker/docker-compose.md",
     "database/elasticsearch/quickstart.md",
     "database/elasticsearch/query.md",
-    "database/mysql/install.md",
     "database/elasticsearch",
-    "database/未命名.md",
     "springboot/mybatis",
     "springboot",
     "database",
@@ -157,22 +164,15 @@
     "images/Pasted image 20240203124653.png",
     "images/Pasted image 20240203114409.png",
     "images/Pasted image 20240203114452.png",
-    "images/Pasted image 20240203114331.png",
-    "Pasted image 20240203114310.png",
     "images",
-    "Pasted image 20240203114218.png",
-    "Pasted image 20240203114119.png",
-    "Pasted image 20240203113709.png",
     "docker/docker compose/compose.example.yml",
     "docker/docker compose/新建文本文档.txt",
     "front/vue",
-    "front",
     "未命名.canvas",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
     "未命名 3.canvas",
-    "未命名 1.canvas",
-    "Pasted image 20231121155035.png"
+    "未命名 1.canvas"
   ]
 }
