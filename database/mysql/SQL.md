@@ -53,3 +53,30 @@ long_query_time=2
 ## explain(执行计划)
 
 在sql语句前面加上explain关键字即可查看该sql执行计划
+
+# sql优化
+
+## insert
+
+- **批量插入**(推荐1000条以内)
+- **手动开启事务**
+- **主键顺序插入**
+
+如果需要大批量(百万)插入数据,使用load指令
+
+```sql
+-- mysql连接时,使用--local-infile
+mysql --local-infile -u root -p
+
+--开启load功能
+set global local_file = 1;
+
+-- 执行load
+load data local file '/path/filename' into <table> fields terminated by ',' line terminated by '\n';
+```
+
+## 主键
+
+- 满足要求的情况下尽量减少主键长度
+
+## orderby

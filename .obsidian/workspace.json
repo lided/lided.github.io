@@ -79,6 +79,7 @@
       {
         "id": "989c066559de81d5",
         "type": "tabs",
+        "dimension": 57.986111111111114,
         "children": [
           {
             "id": "cba9d319529b09a9",
@@ -89,20 +90,27 @@
                 "file": "database/mysql/sql.md"
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "fe7f13f242f3f5d9",
+        "type": "tabs",
+        "dimension": 42.01388888888889,
+        "children": [
+          {
+            "id": "4452de32859f1fef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           },
           {
             "id": "c955ecc64b9c3a9f",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7af74b87380f056c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
