@@ -32,3 +32,24 @@ commit,rollback,savepoint,grant,revoke
 /*  注释内容  */
 ```
 
+# 性能分析
+
+## 慢查询日志
+
+###### 查看慢查询日志是否开启(默认关闭)
+
+```sql
+show variables like 'slow_query_log';
+```
+
+要想开启,在my.cnf中的[mysqld]下配置
+
+```cnf
+# 开启慢查询,查询语句超过2秒为慢
+slow_query_log=1
+long_query_time=2
+```
+
+## explain(执行计划)
+
+在sql语句前面加上explain关键字即可查看该sql执行计划

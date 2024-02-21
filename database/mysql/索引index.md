@@ -43,3 +43,70 @@ MySQL索引数据结构对经典的B+Tree进行了优化。在原B+Tree的基础
 聚集索引选取规则
 
 ![](images/Pasted%20image%2020240220220922.png)
+
+# 索引语法
+
+###### 创建索引
+
+```sql
+create [unique | fulltext]? index <index_name> on <table_name> (<col_name(n)>+);
+```
+
+- unique 唯一索引
+- fulltext 全文索引
+- 不写为普通索引
+- 多个<col_name>用逗号隔开
+- <col_name(n)>中的n是指将字段前n为作为索引,不写(n)为全部
+
+###### 查看索引
+
+```sql
+show index from <table_name>;
+```
+
+###### 删除索引
+
+```sql
+drop index <index_name> on <table_name>;
+```
+
+# 索引使用注意事项
+
+假设有一个联合a,b,c三个字段的联合索引 idx_a_b_c
+
+## 最左前缀法则
+
+在查询sql中,a,b,c从左到右第一个不存在的字段后面都不会被索引
+
+eg: select * from table where a=? and c = ?;
+
+只有a字段会被索引
+
+## 导致索引失效
+
+- 在索引字段上进行运算
+- 字符串类型不用引号''
+- 头部(左边)模糊匹配
+- or 连接的俩个条件只要有一个没有索引都会失效
+- mysql评估认为索引性能不如全表
+
+## 覆盖索引&回表索引
+
+- **覆盖索引** 需要查询的字段在索引中存在,索引完成后可直接返回
+- **回表索引** 索引后还需再次查询获得其他字段
+
+## SQL提示
+
+在sql中指定索引
+
+```sql
+select * from <table> [ use | ignore | force ] index(<index_name>) where ...;
+```
+
+- use 建议使用该索引
+- ignore 忽略不使用该索引
+- force 强制使用该索引
+
+# 索引设计原则
+
+![](images/Pasted%20image%2020240221171555.png)

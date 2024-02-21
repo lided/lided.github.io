@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/索引index.md",
+                "file": "database/mysql/sql.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/索引index.md"
+                "file": "database/mysql/sql.md"
               }
             }
           },
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,8 +121,11 @@
   },
   "active": "590e97490bf6f221",
   "lastOpenFiles": [
-    "database/mysql/images/Pasted image 20240220220922.png",
     "database/mysql/索引index.md",
+    "database/mysql/sql.md",
+    "database/mysql/images/Pasted image 20240221171555.png",
+    "database/mysql/user and authority.md",
+    "database/mysql/images/Pasted image 20240220220922.png",
     "database/mysql/images/Pasted image 20240220220142.png",
     "database/mysql/images/Pasted image 20240220215951.png",
     "database/mysql/images/Pasted image 20240220215215.png",
@@ -133,11 +135,8 @@
     "database/mysql/images/Pasted image 20240220211338.png",
     "database/mysql/images/Pasted image 20240220211223.png",
     "database/mysql/存储引擎.md",
-    "database/mysql/images/Pasted image 20240220210005.png",
-    "database/mysql/images/Pasted image 20240220205719.png",
     "database/mysql/事务.md",
     "database/mysql/install.md",
-    "database/mysql/sql.md",
     "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",
@@ -160,7 +159,6 @@
     "database/redis/redis事务.md",
     "database/redis/springboot集成.md",
     "database/redis/docker-redis.md",
-    "database/redis/redis管道.md",
     "database/elasticsearch",
     "springboot/mybatis",
     "springboot",
