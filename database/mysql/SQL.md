@@ -79,4 +79,28 @@ load data local file '/path/filename' into <table> fields terminated by ',' line
 
 - 满足要求的情况下尽量减少主键长度
 
-## orderby
+## order by
+
+- order by 后的字段尽量为索引,并且遵循最左前缀法则
+- 有多个字段时,多个字段排序方式应一致
+- 也可以在创建索引时指定索引排序顺序
+![](images/Pasted%20image%2020240222131756.png) 
+
+## group by
+
+- group by 后的字段尽量为索引,并且遵循最左前缀法则
+
+## limit
+
+mysql在limit查询时会将前面所有数据查出,然后去掉前面.所以在大数据量下性能极低
+
+![](images/Pasted%20image%2020240222133301.png)
+
+## count
+
+count(\*) > count(1) > count(primary key) > count(field)
+
+## update
+
+innodb 行锁是针对索引,如果update语句where条件没有索引会对该表上锁
+- where条件字段应该为索引
