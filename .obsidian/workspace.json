@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/锁.md",
+                "file": "database/mysql/mysql管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/锁.md"
+                "file": "database/mysql/mysql管理.md"
               }
             }
           }
@@ -129,11 +129,13 @@
   },
   "active": "fc18abc67ddfb042",
   "lastOpenFiles": [
+    "database/mysql/备份.md",
+    "database/mysql/mysql管理.md",
+    "database/mysql/images/Pasted image 20240223193455.png",
+    "database/mysql/锁.md",
     "database/mysql/images/Pasted image 20240223191756.png",
     "database/mysql/images/Pasted image 20240223190855.png",
     "database/mysql/images/Pasted image 20240223185101.png",
-    "database/mysql/备份.md",
-    "database/mysql/锁.md",
     "database/mysql/user and authority.md",
     "database/mysql/sql.md",
     "database/mysql/install.md",
@@ -152,8 +154,6 @@
     "database/mysql/images/Pasted image 20240222133301.png",
     "database/mysql/images/Pasted image 20240222131756.png",
     "database/mysql/images/Pasted image 20240221171555.png",
-    "database/mysql/images/Pasted image 20240220220922.png",
-    "database/mysql/images/Pasted image 20240220220142.png",
     "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",
@@ -167,7 +167,6 @@
     "database/redis/cluster.md",
     "database/redis/持久化.md",
     "database/redis/install.md",
-    "springboot/global-exception-handler.md",
     "database/elasticsearch",
     "springboot/mybatis",
     "springboot",
