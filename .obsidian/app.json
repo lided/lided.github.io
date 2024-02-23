@@ -2,5 +2,9 @@
   "showLineNumber": true,
   "attachmentFolderPath": "./images",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "foldHeading": false,
+  "foldIndent": false
 }
