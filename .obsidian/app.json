@@ -6,5 +6,6 @@
   "readableLineLength": true,
   "strictLineBreaks": true,
   "foldHeading": false,
-  "foldIndent": false
+  "foldIndent": false,
+  "promptDelete": false
 }

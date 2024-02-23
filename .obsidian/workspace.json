@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "21b8cd3f4d6a6f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "46162f1b14516209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc18abc67ddfb042",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d619e0ae4b052a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cf54de3708f806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c87ef4150171b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b371eec0b4f14f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#事务操作",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9ea98599d18ffe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "85c594c4de743e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "989c066559de81d5",
+        "type": "tabs",
+        "dimension": 57.986111111111114,
+        "children": [
+          {
+            "id": "cba9d319529b09a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe7f13f242f3f5d9",
+        "type": "tabs",
+        "dimension": 42.01388888888889,
+        "children": [
+          {
+            "id": "4452de32859f1fef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c955ecc64b9c3a9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fc18abc67ddfb042",
+  "lastOpenFiles": [
+    "database/mysql/images/Pasted image 20240220192803.png",
+    "database/mysql/images/Pasted image 20240220194207.png",
+    "images/Pasted image 20240220192539.png",
+    "readme.md",
+    "docker/docker私有库.md",
+    "docker/services.md",
+    "database/mysql/存储过程.md",
+    "database/mysql/视图.md",
+    "database/mysql/存储引擎.md",
+    "database/mysql/install.md",
+    "database/mysql/sql.md",
+    "database/mysql/images/Pasted image 20240222133301.png",
+    "database/mysql/images/Pasted image 20240222131756.png",
+    "database/mysql/索引index.md",
+    "database/mysql/images/Pasted image 20240221171555.png",
+    "database/mysql/user and authority.md",
+    "database/mysql/images/Pasted image 20240220220922.png",
+    "database/mysql/images/Pasted image 20240220220142.png",
+    "database/mysql/images/Pasted image 20240220215951.png",
+    "database/mysql/images/Pasted image 20240220215215.png",
+    "database/mysql/images/Pasted image 20240220215144.png",
+    "database/mysql/事务.md",
+    "conflict-files-obsidian-git.md",
+    "images",
+    "database/mysql/images",
+    "database/mysql/Pasted.md",
+    "linux/ifcfg-enc33.md",
+    "linux/systemctl.md",
+    "linux/user-group.md",
+    "docker/install.md",
+    "docker/Dockerfile.md",
+    "frp",
+    "database/redis/cluster.md",
+    "database/redis/持久化.md",
+    "database/redis/install.md",
+    "springboot/global-exception-handler.md",
+    "springboot/mybatis.md",
+    "database/redis/命令.md",
+    "database/redis/redis事务.md",
+    "database/elasticsearch",
+    "springboot/mybatis",
+    "springboot",
+    "database",
+    "docker/docker compose/compose.example.yml",
+    "docker/docker compose/新建文本文档.txt",
+    "未命名.canvas",
+    "qqq.canvas",
+    "bzd.canvas",
+    "未命名 2.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas"
+  ]
+}
