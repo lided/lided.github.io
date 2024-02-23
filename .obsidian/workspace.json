@@ -11,8 +11,13 @@
             "id": "fc18abc67ddfb042",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "database/mysql/事务.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "database/mysql/事务.md"
+              }
             }
           }
         ]
@@ -123,6 +130,7 @@
   "active": "fc18abc67ddfb042",
   "lastOpenFiles": [
     "database/mysql/images/Pasted image 20240220192803.png",
+    "database/mysql/事务.md",
     "database/mysql/images/Pasted image 20240220194207.png",
     "images/Pasted image 20240220192539.png",
     "readme.md",
@@ -142,8 +150,6 @@
     "database/mysql/images/Pasted image 20240220220142.png",
     "database/mysql/images/Pasted image 20240220215951.png",
     "database/mysql/images/Pasted image 20240220215215.png",
-    "database/mysql/images/Pasted image 20240220215144.png",
-    "database/mysql/事务.md",
     "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",
