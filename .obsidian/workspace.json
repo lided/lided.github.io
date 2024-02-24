@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/存储引擎.md",
+                "file": "database/mysql/mysql管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/存储引擎.md"
+                "file": "database/mysql/mysql管理.md"
               }
             }
           }
@@ -129,6 +129,8 @@
   },
   "active": "fc18abc67ddfb042",
   "lastOpenFiles": [
+    "database/mysql/images/Pasted image 20240224161541.png",
+    "database/mysql/存储引擎.md",
     "database/mysql/images/Pasted image 20240224151215.png",
     "database/mysql/images/Pasted image 20240224150709.png",
     "database/mysql/images/Pasted image 20240224150642.png",
@@ -139,7 +141,6 @@
     "database/mysql/images/Pasted image 20240224145946.png",
     "database/mysql/images/Pasted image 20240224145705.png",
     "database/mysql/images/Pasted image 20240224145617.png",
-    "database/mysql/images/Pasted image 20240224144401.png",
     "database/mysql/mysql管理.md",
     "database/mysql/备份.md",
     "database/mysql/锁.md",
@@ -154,7 +155,6 @@
     "readme.md",
     "docker/docker私有库.md",
     "docker/services.md",
-    "database/mysql/存储引擎.md",
     "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",

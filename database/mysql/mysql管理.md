@@ -80,3 +80,56 @@ mysqlimport [options] <database> <textfile> <textfile>+
 source <sql_file_name>
 ```
 
+# 日志
+
+- 错误日志
+- 二进制日志
+- 查询日志
+- 慢查询日志
+
+## 错误日志
+
+```sql
+show variables like '%log_error%';
+```
+
+默认路径
+
+```
+/var/log/mysqld.log
+```
+
+## 二进制日志
+
+记录所有DDL(定义),DML(操作)语句
+
+```sql
+show variables like '%log_bin%';
+```
+
+### 清理
+
+![](images/Pasted%20image%2020240224161541.png)
+
+二进制日志过期时间
+
+> binlog_expire_logs_seconds
+
+## 查询日志
+
+记录所有sql,默认不开启
+
+查询日志参数
+
+> general_log
+
+> general_log_file
+
+## 满查询日志
+
+记录所以超过指定时间的查询sql
+
+- slow_query_log 是否开启慢查询日志( 0 | 1 )
+- long_query_time 指定超时时间(default 10,单位s)
+- log_slow_admin_statements 是否记录管理sql
+- log_queries_not_using_indexes 是否记录不索引sql
