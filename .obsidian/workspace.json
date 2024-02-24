@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/mysql管理.md",
+                "file": "database/mysql/存储引擎.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/mysql管理.md"
+                "file": "database/mysql/存储引擎.md"
               }
             }
           }
@@ -129,13 +129,20 @@
   },
   "active": "fc18abc67ddfb042",
   "lastOpenFiles": [
-    "database/mysql/备份.md",
+    "database/mysql/images/Pasted image 20240224151215.png",
+    "database/mysql/images/Pasted image 20240224150709.png",
+    "database/mysql/images/Pasted image 20240224150642.png",
+    "database/mysql/images/Pasted image 20240224150508.png",
+    "database/mysql/images/Pasted image 20240224150441.png",
+    "database/mysql/images/Pasted image 20240224150229.png",
+    "database/mysql/images/Pasted image 20240224150051.png",
+    "database/mysql/images/Pasted image 20240224145946.png",
+    "database/mysql/images/Pasted image 20240224145705.png",
+    "database/mysql/images/Pasted image 20240224145617.png",
+    "database/mysql/images/Pasted image 20240224144401.png",
     "database/mysql/mysql管理.md",
-    "database/mysql/images/Pasted image 20240223193455.png",
+    "database/mysql/备份.md",
     "database/mysql/锁.md",
-    "database/mysql/images/Pasted image 20240223191756.png",
-    "database/mysql/images/Pasted image 20240223190855.png",
-    "database/mysql/images/Pasted image 20240223185101.png",
     "database/mysql/user and authority.md",
     "database/mysql/sql.md",
     "database/mysql/install.md",
@@ -144,16 +151,10 @@
     "database/mysql/视图.md",
     "database/mysql/索引index.md",
     "database/mysql/事务.md",
-    "database/mysql/images/Pasted image 20240220192803.png",
-    "database/mysql/images/Pasted image 20240220194207.png",
-    "images/Pasted image 20240220192539.png",
     "readme.md",
     "docker/docker私有库.md",
     "docker/services.md",
     "database/mysql/存储引擎.md",
-    "database/mysql/images/Pasted image 20240222133301.png",
-    "database/mysql/images/Pasted image 20240222131756.png",
-    "database/mysql/images/Pasted image 20240221171555.png",
     "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",
