@@ -4,6 +4,9 @@
 yum -y remove $(yum list installed | grep mysql)
 ```
 
+```
+find / -name mysql | xargs rm -rf
+```
 ## 安装
 
 [mysql官方下载链接](https://dev.mysql.com/downloads/)

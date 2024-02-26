@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/cluster.md",
+                "file": "database/mysql/user and authority.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/cluster.md"
+                "file": "database/mysql/user and authority.md"
               }
             }
           }
@@ -129,10 +129,13 @@
   },
   "active": "fc18abc67ddfb042",
   "lastOpenFiles": [
-    "database/mysql/images/Pasted image 20240224171031.png",
+    "linux/user-group.md",
     "database/mysql/user and authority.md",
-    "database/mysql/install.md",
+    "docker/install.md",
     "database/mysql/cluster.md",
+    "database/mysql/锁.md",
+    "database/mysql/install.md",
+    "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
     "database/mysql/mysql管理.md",
     "database/mysql/images/Pasted image 20240224161541.png",
@@ -144,9 +147,7 @@
     "database/mysql/images/Pasted image 20240224150441.png",
     "database/mysql/images/Pasted image 20240224150229.png",
     "database/mysql/images/Pasted image 20240224150051.png",
-    "database/mysql/images/Pasted image 20240224145946.png",
     "database/mysql/备份.md",
-    "database/mysql/锁.md",
     "database/mysql/sql.md",
     "database/mysql/触发器trigger.md",
     "database/mysql/存储过程.md",
@@ -162,8 +163,6 @@
     "database/mysql/Pasted.md",
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
-    "linux/user-group.md",
-    "docker/install.md",
     "docker/Dockerfile.md",
     "frp",
     "database/redis/cluster.md",

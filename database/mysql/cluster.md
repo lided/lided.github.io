@@ -63,8 +63,11 @@ show replica status;
 
 ## 问题
 
-Replica_IO_Running: connecton
+> Replica_IO_Running: connecton
 
 1. 检查slave用户能否正常使用
 2. 检查my.cnf配置,server-id不能重复
 3. 检查/var/lib/mysql/auto.cnf中的UUID不能重复
+
+# mycat2
+
