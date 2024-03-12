@@ -5,7 +5,7 @@ yum -y remove $(yum list installed | grep mysql)
 ```
 
 ```
-find / -name mysql | xargs rm -rf
+find /var -name "mysql*" | xargs rm -rf
 ```
 ## 安装
 

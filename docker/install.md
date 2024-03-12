@@ -1,14 +1,14 @@
 ### 卸载旧版本
 
 ```sh
-sudo yum list installed | grep docker | xargs yum -y remove
+sudo yum list installed | grep docker | xargs sudo yum -y remove
 ```
 
 
 删除容器,镜像等文件
 
 ```shell
-sudo rm -rf /var/lib/docker /var/lib/containerd
+sudo rm -r /var/lib/docker /var/lib/containerd
 ```
 
 ### 安装yum-utils

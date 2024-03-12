@@ -70,11 +70,32 @@ show index from <table_name>;
 drop index <index_name> on <table_name>;
 ```
 
+# explain
+
+在sql语句前加上explain关键字,查看当前sql执行计划(不会执行sql)
+
+![](images/Pasted%20image%2020240312190927.png)
+
+| 字段名           | 描述                  |
+| ------------- | ------------------- |
+| id            | 执行顺序,id越大先执行        |
+| select_type   | 查询类型                |
+| table         | 表名                  |
+| partitions    | 分区信息                |
+| type          | 访问方法                |
+| possible_keys | 可能用到的index          |
+| key           | 实际用到的index          |
+| key_len       | 实际用到的index长度        |
+| ref           |                     |
+| rows          | 预估记录数               |
+| filtered      | 符合条件的记录/查询到的记录(百分比) |
+| extra         | 额外信息                |
+
 # 索引使用注意事项
 
-假设有一个联合a,b,c三个字段的联合索引 idx_a_b_c
-
 ## 最左前缀法则
+
+假设有一个联合a,b,c三个字段的联合索引 idx_a_b_c
 
 在查询sql中,a,b,c从左到右第一个不存在的字段后面都不会被索引
 

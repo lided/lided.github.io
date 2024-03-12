@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/user and authority.md",
+                "file": "database/mysql/sql.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffdf60c2dc331c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/mysql/索引index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/user and authority.md"
+                "file": "database/mysql/索引index.md"
               }
             }
           }
@@ -127,14 +141,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc18abc67ddfb042",
+  "active": "1c87ef4150171b05",
   "lastOpenFiles": [
-    "linux/user-group.md",
+    "jvm",
+    "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/user and authority.md",
+    "database/mysql/install.md",
+    "database/mysql/索引index.md",
+    "database/mysql/sql.md",
+    "design-mode/facade(外观模式).md",
+    "design-mode/adapter.md",
+    "design-mode",
     "docker/install.md",
+    "linux/user-group.md",
     "database/mysql/cluster.md",
     "database/mysql/锁.md",
-    "database/mysql/install.md",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
     "database/mysql/mysql管理.md",
@@ -146,13 +167,10 @@
     "database/mysql/images/Pasted image 20240224150508.png",
     "database/mysql/images/Pasted image 20240224150441.png",
     "database/mysql/images/Pasted image 20240224150229.png",
-    "database/mysql/images/Pasted image 20240224150051.png",
     "database/mysql/备份.md",
-    "database/mysql/sql.md",
     "database/mysql/触发器trigger.md",
     "database/mysql/存储过程.md",
     "database/mysql/视图.md",
-    "database/mysql/索引index.md",
     "database/mysql/事务.md",
     "readme.md",
     "docker/docker私有库.md",
@@ -165,8 +183,6 @@
     "linux/systemctl.md",
     "docker/Dockerfile.md",
     "frp",
-    "database/redis/cluster.md",
-    "database/redis/持久化.md",
     "database/elasticsearch",
     "springboot/mybatis",
     "springboot",
