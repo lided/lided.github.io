@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/services.md",
-                "mode": "preview",
+                "file": "readme.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/install.md"
+                "file": "readme.md"
               }
             }
           }
@@ -141,8 +140,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5fb3996b9c97a6b4",
+  "active": "ffdf60c2dc331c58",
   "lastOpenFiles": [
+    "springboot/global-exception-handler.md",
+    "[Install.md",
+    "springboot/data-format.md",
+    "springboot/images/Pasted image 20240313134557.png",
+    "springboot/images",
+    "springboot/mybatis.md",
+    "database/mysql/user and authority.md",
     "docker/services.md",
     "docker/install.md",
     "database/redis/install.md",
@@ -151,10 +157,8 @@
     "database/redis/redis事务.md",
     "database/redis/命令.md",
     "database/redis/主从复制和哨兵.md",
-    "[Install.md",
     "jvm",
     "database/mysql/images/Pasted image 20240312190927.png",
-    "database/mysql/user and authority.md",
     "database/mysql/install.md",
     "database/mysql/索引index.md",
     "design-mode/facade(外观模式).md",
@@ -173,14 +177,10 @@
     "database/mysql/images/Pasted image 20240224150642.png",
     "database/mysql/images/Pasted image 20240224150508.png",
     "database/mysql/images/Pasted image 20240224150441.png",
-    "database/mysql/images/Pasted image 20240224150229.png",
     "database/mysql/备份.md",
     "database/mysql/触发器trigger.md",
     "database/mysql/存储过程.md",
     "database/mysql/视图.md",
-    "database/mysql/事务.md",
-    "readme.md",
-    "docker/docker私有库.md",
     "images",
     "database/mysql/images",
     "frp",
@@ -188,7 +188,6 @@
     "springboot/mybatis",
     "springboot",
     "database",
-    "docker/docker compose/compose.example.yml",
     "未命名.canvas",
     "qqq.canvas",
     "bzd.canvas",
