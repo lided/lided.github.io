@@ -1,3 +1,5 @@
+[Install Docker Engine on CentOS | Docker Docs](https://docs.docker.com/engine/install/centos/)
+
 ### 卸载旧版本
 
 ```sh
@@ -48,7 +50,7 @@ sudo yum install docker-ce-<VERSION_STRING> docker-ce-cli-<VERSION_STRING> conta
 
 ```sh
 echo '{
-  "registry-mirrors":["https://v49t3g9l.mirror.aliyuncs.com"]
+  "registry-mirrors":["https://docker.mirrors.sjtug.sjtu.edu.cn"]
 }' | sudo tee /etc/docker/daemon.json         
 ```
 

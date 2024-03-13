@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc18abc67ddfb042",
+            "id": "ffdf60c2dc331c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/sql.md",
-                "mode": "source",
+                "file": "docker/services.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "ffdf60c2dc331c58",
+            "id": "5fb3996b9c97a6b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/mysql/索引index.md",
+                "file": "docker/install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mysql/索引index.md"
+                "file": "docker/install.md"
               }
             }
           }
@@ -141,18 +141,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "5fb3996b9c97a6b4",
   "lastOpenFiles": [
+    "docker/services.md",
+    "docker/install.md",
+    "database/redis/install.md",
+    "database/mysql/sql.md",
+    "database/redis/docker-redis.md",
+    "database/redis/redis事务.md",
+    "database/redis/命令.md",
+    "database/redis/主从复制和哨兵.md",
+    "[Install.md",
     "jvm",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/user and authority.md",
     "database/mysql/install.md",
     "database/mysql/索引index.md",
-    "database/mysql/sql.md",
     "design-mode/facade(外观模式).md",
     "design-mode/adapter.md",
     "design-mode",
-    "docker/install.md",
     "linux/user-group.md",
     "database/mysql/cluster.md",
     "database/mysql/锁.md",
@@ -174,21 +181,14 @@
     "database/mysql/事务.md",
     "readme.md",
     "docker/docker私有库.md",
-    "docker/services.md",
-    "conflict-files-obsidian-git.md",
     "images",
     "database/mysql/images",
-    "database/mysql/Pasted.md",
-    "linux/ifcfg-enc33.md",
-    "linux/systemctl.md",
-    "docker/Dockerfile.md",
     "frp",
     "database/elasticsearch",
     "springboot/mybatis",
     "springboot",
     "database",
     "docker/docker compose/compose.example.yml",
-    "docker/docker compose/新建文本文档.txt",
     "未命名.canvas",
     "qqq.canvas",
     "bzd.canvas",
