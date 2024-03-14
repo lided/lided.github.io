@@ -36,3 +36,7 @@ docker run -d -p5672:5672 -p15672:15672 \
 -e RABBITMQ_DEFAULT_PASS=lide \
 --name=rabbitmq rabbitmq:management
 ```
+
+## redis
+
+[docker-redis](../database/redis/docker-redis)

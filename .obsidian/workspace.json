@@ -11,11 +11,30 @@
             "id": "692e3b76c9f59e36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "database/redis/docker-redis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "622eac8d306bc60a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/redis/docker-redis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "database/redis/docker-redis.md"
+              }
             }
           }
         ]
@@ -117,13 +138,17 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "692e3b76c9f59e36",
+  "active": "622eac8d306bc60a",
   "lastOpenFiles": [
-    "design-mode/adapter.md",
+    "docker/services.md",
+    "database/redis/docker-redis.md",
     "design-mode/facade(外观模式).md",
+    "未命名.canvas",
+    "design-mode/adapter.md",
     "regular/1.md",
     "java/springboot/data-format.md",
     "java/springboot/images/Pasted image 20240313134557.png",
@@ -131,7 +156,6 @@
     "database/redis/持久化.md",
     "linux/防火墙.md",
     "linux/命令分隔符.md",
-    "docker/services.md",
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
     "readme.md",
@@ -143,7 +167,6 @@
     "docker/install.md",
     "database/redis/install.md",
     "database/mysql/sql.md",
-    "database/redis/docker-redis.md",
     "database/redis/redis事务.md",
     "database/redis/命令.md",
     "database/redis/主从复制和哨兵.md",
@@ -153,7 +176,6 @@
     "database/mysql/索引index.md",
     "design-mode",
     "linux/user-group.md",
-    "database/mysql/cluster.md",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
     "database/mysql/images/Pasted image 20240224161541.png",
@@ -168,7 +190,6 @@
     "database/elasticsearch",
     "springboot/mybatis",
     "java/springboot",
-    "未命名.canvas",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
