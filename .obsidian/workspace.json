@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "622eac8d306bc60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/services.md"
+                "file": "database/redis/docker-redis.md"
               }
             }
           }
@@ -142,12 +128,15 @@
       "canvas:新建白板": false
     }
   },
-  "active": "622eac8d306bc60a",
+  "active": "692e3b76c9f59e36",
   "lastOpenFiles": [
-    "database/redis/docker-redis.md",
-    "docker/services.md",
-    "design-mode/facade(外观模式).md",
     "未命名.canvas",
+    "database/redis/docker-redis.md",
+    "java/springboot/mybatis.md",
+    "docker/install.md",
+    "docker/services.md",
+    "docker/Dockerfile.md",
+    "design-mode/facade(外观模式).md",
     "design-mode/adapter.md",
     "regular/1.md",
     "java/springboot/data-format.md",
@@ -162,9 +151,7 @@
     "java/springboot/global-exception-handler.md",
     "[Install.md",
     "java/springboot/images",
-    "java/springboot/mybatis.md",
     "database/mysql/user and authority.md",
-    "docker/install.md",
     "database/redis/install.md",
     "database/mysql/sql.md",
     "database/redis/redis事务.md",
@@ -175,7 +162,6 @@
     "database/mysql/install.md",
     "database/mysql/索引index.md",
     "design-mode",
-    "linux/user-group.md",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
     "database/mysql/images/Pasted image 20240224161541.png",
