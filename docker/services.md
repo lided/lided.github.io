@@ -39,4 +39,4 @@ docker run -d -p5672:5672 -p15672:15672 \
 
 ## redis
 
-[docker-redis](../database/redis/docker-redis)
+[docker-redis](../database/redis/docker-redis.md)

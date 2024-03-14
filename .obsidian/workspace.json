@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/redis/docker-redis.md",
+                "file": "docker/services.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/redis/docker-redis.md"
+                "file": "docker/services.md"
               }
             }
           }
@@ -144,8 +144,8 @@
   },
   "active": "622eac8d306bc60a",
   "lastOpenFiles": [
-    "docker/services.md",
     "database/redis/docker-redis.md",
+    "docker/services.md",
     "design-mode/facade(外观模式).md",
     "未命名.canvas",
     "design-mode/adapter.md",
