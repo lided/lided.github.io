@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/redis/docker-redis.md",
+                "file": "java/springcloud/circuitbreaker断路器.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/redis/docker-redis.md"
+                "file": "java/springcloud/circuitbreaker断路器.md"
               }
             }
           }
@@ -130,8 +130,11 @@
   },
   "active": "692e3b76c9f59e36",
   "lastOpenFiles": [
-    "未命名.canvas",
     "database/redis/docker-redis.md",
+    "java/springcloud/circuitbreaker断路器.md",
+    "java/springcloud/未命名",
+    "java/springcloud",
+    "未命名.canvas",
     "java/springboot/mybatis.md",
     "docker/install.md",
     "docker/services.md",
@@ -174,8 +177,6 @@
     "database/mysql/images",
     "frp",
     "database/elasticsearch",
-    "springboot/mybatis",
-    "java/springboot",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
