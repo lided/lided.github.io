@@ -10,6 +10,7 @@
           {
             "id": "258bdf3096e2ab97",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -56,14 +58,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d9ea98599d18ffe4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -132,16 +126,16 @@
   "lastOpenFiles": [
     "design-mode/行为型模式/strategy策略模式.md",
     "design-mode/大纲.md",
+    "java/springcloud/服务注册发现.md",
+    "java/springcloud/链路追踪.md",
     "design-mode/结构型模式",
     "design-mode/行为型模式",
     "design-mode/创建型模式",
     "design-mode/结构型模式/adapter.md",
     "design-mode/结构型模式/facade(外观模式).md",
-    "java/springcloud/服务注册发现.md",
     "docker/services.md",
     "vue3/组件传值.md",
     "java/springcloud/网关.md",
-    "java/springcloud/链路追踪.md",
     "java/springcloud/circuitbreaker断路器.md",
     "database/redis/docker-redis.md",
     "java/springcloud/未命名",
