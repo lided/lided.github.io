@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5742c2309f25a9d9",
+        "id": "a2e859b46ecf2923",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0f3b0d1f583ac8",
+            "id": "258bdf3096e2ab97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "design-mode/大纲.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f00eefc5d62ae329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design-mode/行为型模式/strategy策略模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +128,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "bb0f3b0d1f583ac8",
+  "active": "258bdf3096e2ab97",
   "lastOpenFiles": [
     "design-mode/行为型模式/strategy策略模式.md",
     "design-mode/大纲.md",
