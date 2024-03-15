@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692e3b76c9f59e36",
+            "id": "bb0f3b0d1f583ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/springcloud/circuitbreaker断路器.md",
+                "file": "design-mode/大纲.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f00eefc5d62ae329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design-mode/行为型模式/strategy策略模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#事务操作",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/springcloud/circuitbreaker断路器.md"
+                "file": "design-mode/大纲.md"
               }
             }
           }
@@ -128,19 +141,28 @@
       "canvas:新建白板": false
     }
   },
-  "active": "692e3b76c9f59e36",
+  "active": "bb0f3b0d1f583ac8",
   "lastOpenFiles": [
-    "database/redis/docker-redis.md",
+    "design-mode/行为型模式/strategy策略模式.md",
+    "design-mode/大纲.md",
+    "design-mode/结构型模式",
+    "design-mode/行为型模式",
+    "design-mode/创建型模式",
+    "design-mode/结构型模式/adapter.md",
+    "design-mode/结构型模式/facade(外观模式).md",
+    "java/springcloud/服务注册发现.md",
+    "docker/services.md",
+    "vue3/组件传值.md",
+    "java/springcloud/网关.md",
+    "java/springcloud/链路追踪.md",
     "java/springcloud/circuitbreaker断路器.md",
+    "database/redis/docker-redis.md",
     "java/springcloud/未命名",
     "java/springcloud",
     "未命名.canvas",
     "java/springboot/mybatis.md",
     "docker/install.md",
-    "docker/services.md",
     "docker/Dockerfile.md",
-    "design-mode/facade(外观模式).md",
-    "design-mode/adapter.md",
     "regular/1.md",
     "java/springboot/data-format.md",
     "java/springboot/images/Pasted image 20240313134557.png",
@@ -155,15 +177,8 @@
     "[Install.md",
     "java/springboot/images",
     "database/mysql/user and authority.md",
-    "database/redis/install.md",
-    "database/mysql/sql.md",
-    "database/redis/redis事务.md",
-    "database/redis/命令.md",
-    "database/redis/主从复制和哨兵.md",
     "java/jvm",
     "database/mysql/images/Pasted image 20240312190927.png",
-    "database/mysql/install.md",
-    "database/mysql/索引index.md",
     "design-mode",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
@@ -174,9 +189,6 @@
     "database/mysql/images/Pasted image 20240224150508.png",
     "database/mysql/images/Pasted image 20240224150441.png",
     "images",
-    "database/mysql/images",
-    "frp",
-    "database/elasticsearch",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
