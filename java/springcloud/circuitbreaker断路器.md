@@ -106,3 +106,45 @@ resilience4j:
         base-config: default
 ```
 
+# sentinel
+
+## 依赖
+
+```xml
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-openfeign</artifactId>
+</dependency>
+```
+
+## 配置
+
+```yml
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        port: 8719
+```
+
+## 流控
+
+从如何生效来看分为直接,关联,链路三种,单机阈值为10QPS
+
+假设有一个/api/test接口
+
+| 生效模式 | 生效条件                                                     |
+| ---- | -------------------------------------------------------- |
+| 直接   | /api/test接口请求超过10QPS                                     |
+| 关联   | 关联另一个/api/other接口,当/api/other接口请求超过10QPS时生效              |
+| 链路   | 指定一个/api/parent接口,当从/api/parent接口调用/api/test接口超过10QPS时生效 |
+
+> sentinel默认controller层调用service层为一条链路,要将其分开,配置如下
+
+```yml
+spring:
+  cloud:
+    sentinel:
+      web-context-unify: false
+```

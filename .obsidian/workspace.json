@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0975183bd44dd1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/springcloud/circuitbreaker断路器.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design-mode/大纲.md"
+                "file": "java/springcloud/circuitbreaker断路器.md"
               }
             }
           }
@@ -122,10 +136,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "258bdf3096e2ab97",
+  "active": "0975183bd44dd1c4",
   "lastOpenFiles": [
-    "design-mode/行为型模式/strategy策略模式.md",
     "design-mode/大纲.md",
+    "design-mode/行为型模式/strategy策略模式.md",
     "java/springcloud/服务注册发现.md",
     "java/springcloud/链路追踪.md",
     "design-mode/结构型模式",
