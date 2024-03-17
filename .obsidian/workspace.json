@@ -10,14 +10,16 @@
           {
             "id": "0975183bd44dd1c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design-mode/创建型模式/工厂方法模式.md",
+                "file": "java/springcloud/分布式事务.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -79,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design-mode/创建型模式/工厂方法模式.md"
+                "file": "java/springcloud/分布式事务.md"
               }
             }
           }
@@ -122,8 +124,11 @@
   },
   "active": "0975183bd44dd1c4",
   "lastOpenFiles": [
-    "design-mode/创建型模式/抽象工厂模式.md",
+    "未命名.canvas",
+    "java/springcloud/分布式事务.md",
     "design-mode/创建型模式/工厂方法模式.md",
+    "java/springcloud/分布式事务",
+    "design-mode/创建型模式/抽象工厂模式.md",
     "design-mode/大纲.md",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "design-mode/创建型模式/images",
@@ -142,9 +147,7 @@
     "vue3/组件传值.md",
     "java/springcloud/网关.md",
     "database/redis/docker-redis.md",
-    "java/springcloud/未命名",
     "java/springcloud",
-    "未命名.canvas",
     "java/springboot/mybatis.md",
     "docker/install.md",
     "docker/Dockerfile.md",
@@ -158,8 +161,6 @@
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
     "readme.md",
-    "java/springboot/global-exception-handler.md",
-    "[Install.md",
     "java/springboot/images",
     "java/jvm",
     "database/mysql/images/Pasted image 20240312190927.png",
