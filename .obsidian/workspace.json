@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "afc53d4ef7387046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/maven/pom.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/springcloud/分布式事务.md"
+                "file": "java/maven/pom.md"
               }
             }
           }
@@ -122,10 +136,13 @@
       "canvas:新建白板": false
     }
   },
-  "active": "0975183bd44dd1c4",
+  "active": "afc53d4ef7387046",
   "lastOpenFiles": [
-    "未命名.canvas",
     "java/springcloud/分布式事务.md",
+    "java/maven/pom.md",
+    "[.md",
+    "java/maven",
+    "未命名.canvas",
     "design-mode/创建型模式/工厂方法模式.md",
     "java/springcloud/分布式事务",
     "design-mode/创建型模式/抽象工厂模式.md",
@@ -160,9 +177,7 @@
     "linux/命令分隔符.md",
     "linux/ifcfg-enc33.md",
     "linux/systemctl.md",
-    "readme.md",
     "java/springboot/images",
-    "java/jvm",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
