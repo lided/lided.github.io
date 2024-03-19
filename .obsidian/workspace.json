@@ -8,35 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0975183bd44dd1c4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/springcloud/分布式事务.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "afc53d4ef7387046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/maven/pom.md",
+                "file": "java/String-Builder-Buffer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/maven/pom.md"
+                "file": "java/String-Builder-Buffer.md"
               }
             }
           }
@@ -138,7 +122,12 @@
   },
   "active": "afc53d4ef7387046",
   "lastOpenFiles": [
+    "java/juc/大纲.md",
+    "java/String-Builder-Buffer.md",
+    "java/juc/锁.md",
     "java/springcloud/分布式事务.md",
+    "database/mysql/存储引擎.md",
+    "java/juc",
     "java/maven/pom.md",
     "[.md",
     "java/maven",
@@ -173,11 +162,6 @@
     "java/springboot/images/Pasted image 20240313134557.png",
     "java",
     "database/redis/持久化.md",
-    "linux/防火墙.md",
-    "linux/命令分隔符.md",
-    "linux/ifcfg-enc33.md",
-    "linux/systemctl.md",
-    "java/springboot/images",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
