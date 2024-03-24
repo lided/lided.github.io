@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/事务.md",
+                "file": "java/juc/cas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/spring/事务.md"
+                "file": "java/juc/cas.md"
               }
             }
           }
@@ -122,13 +122,15 @@
   },
   "active": "6f317c618b7570f1",
   "lastOpenFiles": [
+    "java/juc/原子类.md",
+    "java/juc/cas.md",
     "java/juc/volatile.md",
-    "java/spring/事务.md",
     "java/juc/jmm.md",
+    "java/juc/大纲.md",
+    "java/juc/锁.md",
+    "java/spring/事务.md",
     "java/String-Builder-Buffer.md",
     "java/juc/LockSupport.md",
-    "java/juc/锁.md",
-    "java/juc/大纲.md",
     "database/mysql/事务.md",
     "java/spring",
     "java/springcloud/网关.md",
@@ -158,9 +160,7 @@
     "design-mode/结构型模式/facade(外观模式).md",
     "docker/services.md",
     "vue3/组件传值.md",
-    "database/redis/docker-redis.md",
     "java/springcloud",
-    "java/springboot/mybatis.md",
     "java/springboot/images/Pasted image 20240313134557.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
