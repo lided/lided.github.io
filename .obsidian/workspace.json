@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/juc/cas.md",
+                "file": "java/springboot/global-exception-handler.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f8490c6b6f13d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/springboot/data-format.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/juc/cas.md"
+                "file": "java/springboot/data-format.md"
               }
             }
           }
@@ -110,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -120,48 +134,48 @@
       "canvas:新建白板": false
     }
   },
-  "active": "6f317c618b7570f1",
+  "active": "1f8490c6b6f13d83",
   "lastOpenFiles": [
-    "java/juc/原子类.md",
+    "().md",
+    "java/springboot/data-format.md",
+    "java/springboot/mybatis.md",
+    "vue3/svg-icon.md",
+    "vue3/router.md",
+    "vue3/plugin.md",
+    "vue3/axios.md",
+    "vue3/element-plus.md",
+    "vue3/dev-proxy.md",
+    "vue3/starter.md",
+    "java/springboot/global-exception-handler.md",
+    "images/Pasted image 20240313134557.png.md",
+    "images",
+    "java/springboot/images/Pasted image 20240313134557.png",
+    "java/juc/引用.md",
+    "java/juc/LockSupport.md",
     "java/juc/cas.md",
-    "java/juc/volatile.md",
-    "java/juc/jmm.md",
     "java/juc/大纲.md",
     "java/juc/锁.md",
+    "java/juc/jmm.md",
+    "java/juc/volatile.md",
+    "java/juc/原子类.md",
     "java/spring/事务.md",
     "java/String-Builder-Buffer.md",
-    "java/juc/LockSupport.md",
     "database/mysql/事务.md",
     "java/spring",
     "java/springcloud/网关.md",
     "java/springcloud/熔断器.md",
     "java/springcloud/分布式事务.md",
-    "database/mysql/存储引擎.md",
     "java/juc",
-    "java/maven/pom.md",
-    "[.md",
     "java/maven",
     "未命名.canvas",
-    "design-mode/创建型模式/工厂方法模式.md",
     "java/springcloud/分布式事务",
-    "design-mode/创建型模式/抽象工厂模式.md",
-    "design-mode/大纲.md",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "design-mode/创建型模式/images",
-    "design-mode/行为型模式/strategy策略模式.md",
     "java/springcloud/images/Pasted image 20240316112621.png",
     "java/springcloud/images",
-    "java/springcloud/服务注册发现.md",
-    "java/springcloud/链路追踪.md",
     "design-mode/结构型模式",
     "design-mode/行为型模式",
     "design-mode/创建型模式",
-    "design-mode/结构型模式/adapter.md",
-    "design-mode/结构型模式/facade(外观模式).md",
-    "docker/services.md",
-    "vue3/组件传值.md",
-    "java/springcloud",
-    "java/springboot/images/Pasted image 20240313134557.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",

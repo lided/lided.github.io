@@ -3,7 +3,7 @@
   "attachmentFolderPath": "./images",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": true,
   "foldHeading": false,
   "foldIndent": false,
