@@ -5,4 +5,5 @@ spring:
     time-zone: GMT+8
 ```
 
-也可在[配置文件](mybatis#雪花算法导致前端数据精度丢失问题)配置
+也可在配置文件配置,参考[mybatis](mybatis.md#雪花算法导致前端数据精度丢失问题)
+
