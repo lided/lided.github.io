@@ -37,4 +37,4 @@ router.beforeEach((to, from) => {
 router.afterEach((to, from) => {
   console.log(from.fullPath + "after" + to.fullPath);
 });
-```
+``` 
