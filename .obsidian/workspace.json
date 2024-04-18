@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/install.md",
+                "file": "docker/docker compose.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/install.md"
+                "file": "docker/docker compose.md"
               }
             }
           }
@@ -122,6 +122,11 @@
   },
   "active": "a789b7962bf2d4fa",
   "lastOpenFiles": [
+    "git/git.md",
+    "docker/docker compose.md",
+    "docker/install.md",
+    "nodejs/node-npm.md",
+    "nodejs",
     "database/redis/docker-redis.md",
     "docker/services.md",
     "vue3/element-plus.md",
@@ -144,10 +149,6 @@
     "design-mode/行为型模式/strategy策略模式.md",
     "database/mysql/索引index.md",
     "database/mysql/install.md",
-    "java/springboot/mybatis.md",
-    "java/springboot/data-format.md",
-    "().md",
-    "images/Pasted image 20240313134557.png.md",
     "images",
     "java/springboot/images/Pasted image 20240313134557.png",
     "java/spring",
@@ -161,7 +162,6 @@
     "java/springcloud/images",
     "design-mode/结构型模式",
     "design-mode/行为型模式",
-    "design-mode/创建型模式",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
