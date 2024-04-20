@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/compose.md",
+                "file": "design-mode/行为型模式/责任链模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,40 +69,32 @@
     "type": "split",
     "children": [
       {
-        "id": "989c066559de81d5",
+        "id": "fe7f13f242f3f5d9",
         "type": "tabs",
-        "dimension": 59.25925925925925,
+        "dimension": 56.90454124189064,
         "children": [
           {
-            "id": "cba9d319529b09a9",
+            "id": "1800ee6710f8b2d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/compose.md"
+                "file": "design-mode/行为型模式/责任链模式.md"
               }
             }
           }
         ]
       },
       {
-        "id": "fe7f13f242f3f5d9",
+        "id": "d0ca3c326d0bd2c4",
         "type": "tabs",
-        "dimension": 40.74074074074074,
+        "dimension": 43.09545875810936,
         "children": [
           {
             "id": "4452de32859f1fef",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c955ecc64b9c3a9f",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           }
@@ -116,39 +108,40 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false,
-      "canvas:新建白板": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "a789b7962bf2d4fa",
   "lastOpenFiles": [
-    "git/git.md",
+    "design-mode/行为型模式/images/Pasted image 20240420110634.png",
+    "design-mode/行为型模式/images",
+    "design-mode/行为型模式/strategy策略模式.md",
+    "design-mode/行为型模式/责任链模式.md",
+    "design-mode/大纲.md",
+    "java/juc/锁类型.md",
+    "java/juc/锁.md",
+    "java/springcloud/images/Pasted image 20240316112621.png",
+    "java/string-builder-buffer.md",
+    "database/redis/命令.md",
+    "database/redis/install.md",
+    "database/redis/cluster.md",
+    "database/redis/docker-redis.md",
     "docker/compose.md",
+    "git/git.md",
     "docker/install.md",
     "nodejs/node-npm.md",
     "nodejs",
-    "database/redis/docker-redis.md",
     "docker/services.md",
     "vue3/element-plus.md",
     "vue3/dev-proxy.md",
     "vue3/axios.md",
     "java/springboot/global-exception-handler.md",
-    "design-mode/大纲.md",
     "java/spring/流程.md",
     "java/spring/事务.md",
     "vue3/组件传值.md",
     "vue3/plugin.md",
     "vue3/router.md",
     "vue3/starter.md",
-    "vue3/svg-icon.md",
-    "readme.md",
-    "database/elasticsearch/quickstart.md",
-    "database/elasticsearch/query.md",
-    "java/String-Builder-Buffer.md",
-    "regular/regular.md",
-    "design-mode/行为型模式/strategy策略模式.md",
-    "database/mysql/索引index.md",
-    "database/mysql/install.md",
     "images",
     "java/springboot/images/Pasted image 20240313134557.png",
     "java/spring",
@@ -158,10 +151,8 @@
     "java/springcloud/分布式事务",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "design-mode/创建型模式/images",
-    "java/springcloud/images/Pasted image 20240316112621.png",
     "java/springcloud/images",
     "design-mode/结构型模式",
-    "design-mode/行为型模式",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
