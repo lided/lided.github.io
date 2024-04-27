@@ -4,10 +4,10 @@
   "nativeMenus": false,
   "translucency": false,
   "cssTheme": "",
-  "interfaceFontFamily": "Microsoft YaHei",
-  "textFontFamily": "Microsoft YaHei",
-  "monospaceFontFamily": "Microsoft YaHei",
-  "baseFontSize": 25,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 24,
   "showViewHeader": true,
   "baseFontSizeAction": true
 }

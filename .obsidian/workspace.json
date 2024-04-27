@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "550987e1e3e8ca24",
+        "id": "bf84bd142938e6f3",
         "type": "tabs",
         "children": [
           {
-            "id": "a789b7962bf2d4fa",
+            "id": "dcde0902cad02f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design-mode/行为型模式/责任链模式.md",
+                "file": "java/springboot/mybatis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design-mode/行为型模式/责任链模式.md"
+                "file": "java/springboot/mybatis.md"
               }
             }
           }
@@ -111,13 +111,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a789b7962bf2d4fa",
+  "active": "dcde0902cad02f0c",
   "lastOpenFiles": [
+    "java/springboot/data-format.md",
+    "vue3/dev-proxy.md",
+    "java/springboot/global-exception-handler.md",
+    "vue3/router.md",
+    "vue3/starter.md",
+    "design-mode/大纲.md",
+    "design-mode/创建型模式/抽象工厂模式.md",
+    "git/git.md",
+    "vue3/axios.md",
+    "vue3/element-plus.md",
+    "java/juc/aqs.md",
+    "design-mode/行为型模式/责任链模式.md",
     "design-mode/行为型模式/images/Pasted image 20240420110634.png",
     "design-mode/行为型模式/images",
     "design-mode/行为型模式/strategy策略模式.md",
-    "design-mode/行为型模式/责任链模式.md",
-    "design-mode/大纲.md",
     "java/juc/锁类型.md",
     "java/juc/锁.md",
     "java/springcloud/images/Pasted image 20240316112621.png",
@@ -127,21 +137,12 @@
     "database/redis/cluster.md",
     "database/redis/docker-redis.md",
     "docker/compose.md",
-    "git/git.md",
     "docker/install.md",
     "nodejs/node-npm.md",
     "nodejs",
     "docker/services.md",
-    "vue3/element-plus.md",
-    "vue3/dev-proxy.md",
-    "vue3/axios.md",
-    "java/springboot/global-exception-handler.md",
     "java/spring/流程.md",
     "java/spring/事务.md",
-    "vue3/组件传值.md",
-    "vue3/plugin.md",
-    "vue3/router.md",
-    "vue3/starter.md",
     "images",
     "java/springboot/images/Pasted image 20240313134557.png",
     "java/spring",
@@ -159,7 +160,6 @@
     "database/mysql/images/Pasted image 20240224161541.png",
     "database/mysql/images/Pasted image 20240224151215.png",
     "database/mysql/images/Pasted image 20240224150709.png",
-    "database/mysql/images/Pasted image 20240224150642.png",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
