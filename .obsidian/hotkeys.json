@@ -7,18 +7,6 @@
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    },
-    {
-      "modifiers": [],
-      "key": "F4"
-    }
-  ],
   "editor:toggle-checklist-status": [],
   "editor:delete-paragraph": [],
   "global-search:open": [],

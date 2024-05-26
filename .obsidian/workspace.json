@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/springboot/mybatis.md",
+                "file": "docker/install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -79,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/springboot/mybatis.md"
+                "file": "docker/install.md"
               }
             }
           }
@@ -102,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,6 +114,16 @@
   },
   "active": "dcde0902cad02f0c",
   "lastOpenFiles": [
+    "database/redis/10大数据类型.md",
+    "docker/install.md",
+    "database/redis/主从复制和哨兵.md",
+    "database/redis/install.md",
+    "database/redis/cluster.md",
+    "docker/services.md",
+    "database/redis/docker-redis.md",
+    "docker/Dockerfile.md",
+    "java/springboot/mybatis.md",
+    "database/mysql/索引index.md",
     "java/springboot/data-format.md",
     "vue3/dev-proxy.md",
     "java/springboot/global-exception-handler.md",
@@ -132,17 +143,7 @@
     "java/juc/锁.md",
     "java/springcloud/images/Pasted image 20240316112621.png",
     "java/string-builder-buffer.md",
-    "database/redis/命令.md",
-    "database/redis/install.md",
-    "database/redis/cluster.md",
-    "database/redis/docker-redis.md",
-    "docker/compose.md",
-    "docker/install.md",
-    "nodejs/node-npm.md",
     "nodejs",
-    "docker/services.md",
-    "java/spring/流程.md",
-    "java/spring/事务.md",
     "images",
     "java/springboot/images/Pasted image 20240313134557.png",
     "java/spring",

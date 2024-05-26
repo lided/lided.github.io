@@ -20,6 +20,8 @@
 </dependency>
 ```
 
+[分页插件](https://baomidou.com/pages/2976a3/#spring-boot)
+
 # 问题
 
 ###### 雪花算法导致前端数据精度丢失问题
