@@ -7,7 +7,7 @@
   "strictLineBreaks": true,
   "foldHeading": false,
   "foldIndent": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": false,
   "autoPairBrackets": true,
   "autoConvertHtml": false,
@@ -21,5 +21,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "vimMode": false
 }

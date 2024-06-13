@@ -7,8 +7,7 @@ docker run -p 3306:3306 -d --name mysql -e MYSQL_ROOT_PASSWORD=lide -v/etc/mysql
 ## portainer
 
 ```sh
-docker rm -f portainer && 
-docker run -d --network=host --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer-ce
+sudo docker rm -f portainer && sudo docker run -d --network=host --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer-ce
 ```
 
 ## jdk8

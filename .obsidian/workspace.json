@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf84bd142938e6f3",
+        "id": "abbb255a6360f761",
         "type": "tabs",
         "children": [
           {
-            "id": "dcde0902cad02f0c",
+            "id": "aa2f2f44e0e39466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/install.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,7 +46,7 @@
               "state": {
                 "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -62,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 222.51103591918945
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -79,9 +73,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docker/install.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -112,37 +104,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dcde0902cad02f0c",
+  "active": "4452de32859f1fef",
   "lastOpenFiles": [
-    "database/redis/10大数据类型.md",
-    "docker/install.md",
-    "database/redis/主从复制和哨兵.md",
-    "database/redis/install.md",
-    "database/redis/cluster.md",
-    "docker/services.md",
-    "database/redis/docker-redis.md",
-    "docker/Dockerfile.md",
-    "java/springboot/mybatis.md",
-    "database/mysql/索引index.md",
-    "java/springboot/data-format.md",
-    "vue3/dev-proxy.md",
-    "java/springboot/global-exception-handler.md",
-    "vue3/router.md",
-    "vue3/starter.md",
-    "design-mode/大纲.md",
-    "design-mode/创建型模式/抽象工厂模式.md",
     "git/git.md",
     "vue3/axios.md",
-    "vue3/element-plus.md",
-    "java/juc/aqs.md",
-    "design-mode/行为型模式/责任链模式.md",
+    "linux/systemctl.md",
+    "linux/ifcfg-enc33.md",
+    "linux/防火墙.md",
+    "linux/命令分隔符.md",
+    "database/elasticsearch/images/ik分词器analyze.md",
+    "java/juc/大纲.md",
+    "java/juc/锁类型.md",
+    "java/springboot/mybatis.md",
+    "java/springboot/global-exception-handler.md",
+    "java/springboot/data-format.md",
+    "java/spring/事务.md",
+    "java/spring/流程.md",
+    "java/maven/pom.md",
+    "design-mode/大纲.md",
+    "design-mode/结构型模式/facade(外观模式).md",
+    "design-mode/结构型模式/adapter.md",
+    "docker/compose.md",
+    "docker/docker私有库.md",
+    "docker/Dockerfile.md",
+    "docker/install.md",
+    "regular/regular.md",
+    "docker/services.md",
+    "database/elasticsearch/install.md",
+    "database/elasticsearch/query.md",
+    "database/elasticsearch/images/Pasted image 20240603134121.png",
+    "database/elasticsearch/images",
+    "未命名",
+    "database/kafka",
     "design-mode/行为型模式/images/Pasted image 20240420110634.png",
     "design-mode/行为型模式/images",
-    "design-mode/行为型模式/strategy策略模式.md",
-    "java/juc/锁类型.md",
-    "java/juc/锁.md",
     "java/springcloud/images/Pasted image 20240316112621.png",
-    "java/string-builder-buffer.md",
     "nodejs",
     "images",
     "java/springboot/images/Pasted image 20240313134557.png",
@@ -152,15 +148,11 @@
     "未命名.canvas",
     "java/springcloud/分布式事务",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
-    "design-mode/创建型模式/images",
-    "java/springcloud/images",
-    "design-mode/结构型模式",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "database/mysql/images/Pasted image 20240224163936.png",
     "database/mysql/images/Pasted image 20240224161541.png",
     "database/mysql/images/Pasted image 20240224151215.png",
-    "database/mysql/images/Pasted image 20240224150709.png",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",
