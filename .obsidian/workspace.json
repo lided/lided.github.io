@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "abbb255a6360f761",
+        "id": "ae39e22776aac4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "aa2f2f44e0e39466",
+            "id": "b32863a863f8b239",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ebf0a887ea474f7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,6 +84,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "07b005e508600a77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
@@ -95,43 +115,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "4452de32859f1fef",
+  "active": "4ebf0a887ea474f7",
   "lastOpenFiles": [
     "git/git.md",
-    "vue3/axios.md",
-    "linux/systemctl.md",
-    "linux/ifcfg-enc33.md",
-    "linux/防火墙.md",
-    "linux/命令分隔符.md",
-    "database/elasticsearch/images/ik分词器analyze.md",
-    "java/juc/大纲.md",
-    "java/juc/锁类型.md",
-    "java/springboot/mybatis.md",
-    "java/springboot/global-exception-handler.md",
-    "java/springboot/data-format.md",
-    "java/spring/事务.md",
-    "java/spring/流程.md",
-    "java/maven/pom.md",
-    "design-mode/大纲.md",
-    "design-mode/结构型模式/facade(外观模式).md",
+    "database/redis/命令.md",
     "design-mode/结构型模式/adapter.md",
-    "docker/compose.md",
-    "docker/docker私有库.md",
-    "docker/Dockerfile.md",
-    "docker/install.md",
+    "database/redis/主从复制和哨兵.md",
+    "vue3/router.md",
+    "vue3/plugin.md",
+    "design-mode/结构型模式/facade(外观模式).md",
+    "linux/防火墙.md",
+    "java/maven/pom.md",
     "regular/regular.md",
-    "docker/services.md",
-    "database/elasticsearch/install.md",
+    "database/mysql/视图.md",
+    "design-mode/行为型模式/strategy策略模式.md",
     "database/elasticsearch/query.md",
+    "java/juc/cas.md",
+    "java/springcloud/分布式事务.md",
+    "java/juc/LockSupport.md",
+    "database/redis/cluster.md",
+    "docker/compose.md",
+    "database/redis/docker-redis.md",
+    "vue3/组件传值.md",
+    "java/springcloud/网关.md",
+    "java/juc/aqs.md",
+    "database/mysql/cluster.md",
+    "vue3/starter.md",
+    "design-mode/大纲.md",
+    "java/springcloud/服务注册发现.md",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
     "未命名",
