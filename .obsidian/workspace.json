@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ae39e22776aac4bc",
+        "id": "16f7d50c13fa8b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b32863a863f8b239",
+            "id": "1b3882d17270d349",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ebf0a887ea474f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "database/mysql/quick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pinia",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -66,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.51103591918945
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -82,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "database/mysql/quick.md"
+              }
             }
           },
           {
@@ -126,34 +124,35 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4ebf0a887ea474f7",
+  "active": "1b3882d17270d349",
   "lastOpenFiles": [
+    "utils.md",
+    "database/mysql/quick.md",
+    "tools.md",
+    "database/mysql/mysql管理.md",
+    "database/redis/10大数据类型.md",
+    "docker/install.md",
+    "vue3/router.md",
+    "java/string-builder-buffer.md",
+    "java/utils",
+    "java/springboot/mybatis.md",
+    "java/springboot/global-exception-handler.md",
+    "java/springboot/data-format.md",
+    "java/springboot/aop.md",
+    "readme.md",
+    "regular/regular.md",
+    "vue3/starter.md",
+    "vue3/dev-proxy.md",
+    "vue3/axios.md",
     "git/git.md",
     "database/redis/命令.md",
     "design-mode/结构型模式/adapter.md",
     "database/redis/主从复制和哨兵.md",
-    "vue3/router.md",
     "vue3/plugin.md",
     "design-mode/结构型模式/facade(外观模式).md",
     "linux/防火墙.md",
     "java/maven/pom.md",
-    "regular/regular.md",
     "database/mysql/视图.md",
-    "design-mode/行为型模式/strategy策略模式.md",
-    "database/elasticsearch/query.md",
-    "java/juc/cas.md",
-    "java/springcloud/分布式事务.md",
-    "java/juc/LockSupport.md",
-    "database/redis/cluster.md",
-    "docker/compose.md",
-    "database/redis/docker-redis.md",
-    "vue3/组件传值.md",
-    "java/springcloud/网关.md",
-    "java/juc/aqs.md",
-    "database/mysql/cluster.md",
-    "vue3/starter.md",
-    "design-mode/大纲.md",
-    "java/springcloud/服务注册发现.md",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
     "未命名",
@@ -168,7 +167,6 @@
     "java/juc",
     "java/maven",
     "未命名.canvas",
-    "java/springcloud/分布式事务",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",

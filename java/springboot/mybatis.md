@@ -1,26 +1,35 @@
-# mybatis
+# 导入依赖
 
+## mybatis
 
 [版本对应关系](https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
 
-```xml
-<dependency>
-    <groupId>org.mybatis.spring.boot</groupId>
-    <artifactId>mybatis-spring-boot-starter</artifactId>
-    <version>2.3.2</version>
-</dependency>
-```
-# mybatis-plus
+## plus
 
-```xml
-<dependency>
-	<groupId>com.baomidou</groupId>
-	<artifactId>mybatis-plus-boot-starter</artifactId>
-	<version>最新版本</version>
-</dependency>
+[官方文档依赖](https://baomidou.com/getting-started/install)
+
+# 配置
+
+```java
+@Configuration
+@MapperScan("scan.your.mapper.package")
+public class MybatisPlusConfig {
+
+    /**
+     * 添加分页插件
+     */
+    @Bean
+    public MybatisPlusInterceptor mybatisPlusInterceptor() {
+        MybatisPlusInterceptor interceptor = new MybatisPlusInterceptor();
+        interceptor.addInnerInterceptor(new PaginationInnerInterceptor(DbType.MYSQL)); // 如果配置多个插件, 切记分页最后添加
+        // 如果有多数据源可以不配具体类型, 否则都建议配上具体的 DbType
+        return interceptor;
+    }
+}
+
 ```
 
-[分页插件](https://baomidou.com/pages/2976a3/#spring-boot)
+[分页插件](https://baomidou.com/plugins/pagination/#%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95)
 
 # 问题
 

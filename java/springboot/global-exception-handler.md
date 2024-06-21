@@ -3,8 +3,8 @@
 public class GlobalExceptionHandler {
 
     @ExceptionHandler(Exception.class)
-    public String ex(Exception e) {
-        return "error:" + e.getMessage();
+    public ResponseEntity<String> ex(Exception e) {
+        return ResponseEntity.status(400).body(e.getMessage());
     }
 }
 
