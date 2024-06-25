@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16f7d50c13fa8b6b",
+        "id": "6a10dbf77a9f1039",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3882d17270d349",
+            "id": "183a6fa2d3d28aaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/mysql/quick.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,9 +73,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "database/mysql/quick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,14 +117,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1b3882d17270d349",
+  "active": "183a6fa2d3d28aaf",
   "lastOpenFiles": [
-    "utils.md",
+    "vue3/axios.md",
+    "vue3/start.md",
+    "regular/regular.md",
+    "docker/install.md",
     "database/mysql/quick.md",
+    "utils.md",
     "tools.md",
     "database/mysql/mysql管理.md",
     "database/redis/10大数据类型.md",
-    "docker/install.md",
     "vue3/router.md",
     "java/string-builder-buffer.md",
     "java/utils",
@@ -140,10 +136,8 @@
     "java/springboot/data-format.md",
     "java/springboot/aop.md",
     "readme.md",
-    "regular/regular.md",
     "vue3/starter.md",
     "vue3/dev-proxy.md",
-    "vue3/axios.md",
     "git/git.md",
     "database/redis/命令.md",
     "design-mode/结构型模式/adapter.md",
@@ -152,7 +146,6 @@
     "design-mode/结构型模式/facade(外观模式).md",
     "linux/防火墙.md",
     "java/maven/pom.md",
-    "database/mysql/视图.md",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
     "未命名",

@@ -1,3 +1,7 @@
+# 参考
+
+[Install Docker Engine on CentOS | Docker Docs](https://docs.docker.com/engine/install/centos/)
+
 # 卸载旧版本
 
 ```sh
@@ -27,7 +31,3 @@ echo '{
   "registry-mirrors":["https://docker.mirrors.tuna.tsinghua.edu.cn"]
 }' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
 ```
-
-# 参考
-
-[Install Docker Engine on CentOS | Docker Docs](https://docs.docker.com/engine/install/centos/)
