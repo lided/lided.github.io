@@ -1,26 +1,12 @@
 {
   "editor:insert-link": [],
-  "workspace:edit-file-title": [],
   "editor:toggle-bold": [],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
-  "editor:toggle-checklist-status": [],
   "editor:delete-paragraph": [],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    },
-    {
-      "modifiers": [],
-      "key": "F3"
-    }
-  ],
   "app:open-settings": [
     {
       "modifiers": [
@@ -29,5 +15,19 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F6"
+    }
+  ],
+  "app:open-help": [],
+  "app:go-back": [],
+  "graph:open": [],
+  "app:go-forward": [],
+  "markdown:toggle-preview": [],
+  "editor:toggle-italics": []
 }

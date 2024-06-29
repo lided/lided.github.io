@@ -2,7 +2,7 @@
 
 [Install Docker Engine on CentOS | Docker Docs](https://docs.docker.com/engine/install/centos/)
 
-# 卸载旧版本 #docker
+# 卸载旧版本
 
 ```sh
 sudo yum list installed | grep docker | xargs sudo yum -y remove
@@ -38,5 +38,3 @@ echo '{
 }' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
 ```
 
-​
-​

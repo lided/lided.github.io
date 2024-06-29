@@ -1,13 +1,12 @@
 解决开发环境下跨域问题
 
-> vite.config.ts
-
 ```ts
+// vite.config.ts
 export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "http://127.0.0.1:80",
+        target: "http://127.0.0.1:8080",
         // ChangeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       },

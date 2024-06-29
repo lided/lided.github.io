@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "679608d53db04d1c",
+        "id": "a34d6869f176036b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f0962349c751ffa",
+            "id": "67890a1400b01ec1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/install.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -59,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b4e75b30ad8773dd",
@@ -98,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docker/install.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,19 +125,27 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7f0962349c751ffa",
+  "active": "67890a1400b01ec1",
   "lastOpenFiles": [
-    "readme.md",
-    "docker/install.md",
+    "vue3/dev-proxy.md",
+    "vue3/axios.md",
+    "vue3/router.md",
+    "vue3/plugin.md",
     "design-mode/大纲.md",
-    "design-mode/行为型模式/责任链模式.md",
     "design-mode/创建型模式/抽象工厂模式.md",
+    "readme.md",
+    "vue3/element-plus.md",
+    "vue3/start.md",
+    "design-mode/结构型模式/adapter.md",
+    "docker/compose.md",
+    "未命名",
+    "docker/install.md",
+    "design-mode/行为型模式/责任链模式.md",
     "database/redis/10大数据类型.md",
     "未命名.canvas",
     "database/redis/主从复制和哨兵.md",
     "database/redis/start.md",
     "docker/Dockerfile.md",
-    "docker/compose.md",
     "database/redis/持久化.md",
     "database/redis/redis事务.md",
     "database/redis/docker-redis.md",
@@ -155,17 +155,9 @@
     "java/juc/锁类型.md",
     "java/juc/引用.md",
     "java/juc/jmm.md",
-    "java/juc/锁.md",
-    "java/juc/aqs.md",
-    "java/juc/cas.md",
-    "java/juc/大纲.md",
-    "vue3/axios.md",
-    "vue3/start.md",
-    "regular/regular.md",
     "java/utils",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
-    "未命名",
     "database/kafka",
     "design-mode/行为型模式/images/Pasted image 20240420110634.png",
     "design-mode/行为型模式/images",

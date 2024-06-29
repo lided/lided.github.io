@@ -13,7 +13,7 @@
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "focusNewTab": false,
+  "focusNewTab": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Legal",
