@@ -11,8 +11,13 @@
             "id": "183a6fa2d3d28aaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +32,7 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
+        "dimension": 68.27133479212254,
         "children": [
           {
             "id": "1c87ef4150171b05",
@@ -44,12 +50,30 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pinia",
+                "query": "tag:#k1中id属性值加n",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4e75b30ad8773dd",
+        "type": "tabs",
+        "dimension": 31.72866520787746,
+        "children": [
+          {
+            "id": "07b005e508600a77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -66,24 +90,15 @@
       {
         "id": "fe7f13f242f3f5d9",
         "type": "tabs",
-        "dimension": 56.90454124189064,
+        "dimension": 47.7035490605428,
         "children": [
           {
             "id": "1800ee6710f8b2d9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "07b005e508600a77",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "readme.md"
               }
             }
           }
@@ -92,7 +107,7 @@
       {
         "id": "d0ca3c326d0bd2c4",
         "type": "tabs",
-        "dimension": 43.09545875810936,
+        "dimension": 52.29645093945721,
         "children": [
           {
             "id": "4452de32859f1fef",
@@ -119,33 +134,33 @@
   },
   "active": "183a6fa2d3d28aaf",
   "lastOpenFiles": [
+    "database/redis/10大数据类型.md",
+    "未命名.canvas",
+    "database/redis/主从复制和哨兵.md",
+    "database/redis/start.md",
+    "docker/Dockerfile.md",
+    "docker/compose.md",
+    "database/redis/持久化.md",
+    "database/redis/redis事务.md",
+    "database/redis/docker-redis.md",
+    "database/redis/命令.md",
+    "docker/install.md",
+    "redisinde.md",
+    "database/mysql/quick.md",
+    "java/juc/锁类型.md",
+    "java/juc/引用.md",
+    "java/juc/jmm.md",
+    "java/juc/锁.md",
+    "java/juc/aqs.md",
+    "java/juc/cas.md",
+    "java/juc/大纲.md",
     "vue3/axios.md",
     "vue3/start.md",
     "regular/regular.md",
-    "docker/install.md",
-    "database/mysql/quick.md",
     "utils.md",
     "tools.md",
     "database/mysql/mysql管理.md",
-    "database/redis/10大数据类型.md",
-    "vue3/router.md",
-    "java/string-builder-buffer.md",
     "java/utils",
-    "java/springboot/mybatis.md",
-    "java/springboot/global-exception-handler.md",
-    "java/springboot/data-format.md",
-    "java/springboot/aop.md",
-    "readme.md",
-    "vue3/starter.md",
-    "vue3/dev-proxy.md",
-    "git/git.md",
-    "database/redis/命令.md",
-    "design-mode/结构型模式/adapter.md",
-    "database/redis/主从复制和哨兵.md",
-    "vue3/plugin.md",
-    "design-mode/结构型模式/facade(外观模式).md",
-    "linux/防火墙.md",
-    "java/maven/pom.md",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
     "未命名",
@@ -159,7 +174,6 @@
     "java/spring",
     "java/juc",
     "java/maven",
-    "未命名.canvas",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",

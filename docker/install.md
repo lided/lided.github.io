@@ -15,6 +15,12 @@ sudo yum list installed | grep docker | xargs sudo yum -y remove
 sudo rm -r /var/lib/docker /var/lib/containerd
 ```
 
+# yum docker 阿里源
+
+```sh
+yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+```
+
 # 一键安装
 
 ```sh
@@ -28,6 +34,9 @@ sudo systemctl start docker && sudo systemctl enable docker
 
 ```sh
 echo '{
-  "registry-mirrors":["https://docker.mirrors.tuna.tsinghua.edu.cn"]
+ "registry-mirrors":["https://docker.m.daocloud.io","https://docker.1panel.live"]
 }' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
 ```
+
+​
+​
