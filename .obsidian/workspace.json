@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a10dbf77a9f1039",
+        "id": "679608d53db04d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "183a6fa2d3d28aaf",
+            "id": "7f0962349c751ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "docker/install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
-        "dimension": 68.27133479212254,
+        "dimension": 60.54644808743169,
         "children": [
           {
             "id": "1c87ef4150171b05",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#k1中id属性值加n",
+                "query": "tag:#笔记",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -59,12 +59,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b4e75b30ad8773dd",
         "type": "tabs",
-        "dimension": 31.72866520787746,
+        "dimension": 39.45355191256831,
         "children": [
           {
             "id": "07b005e508600a77",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "docker/install.md"
               }
             }
           }
@@ -132,8 +133,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "183a6fa2d3d28aaf",
+  "active": "7f0962349c751ffa",
   "lastOpenFiles": [
+    "readme.md",
+    "docker/install.md",
+    "design-mode/大纲.md",
+    "design-mode/行为型模式/责任链模式.md",
+    "design-mode/创建型模式/抽象工厂模式.md",
     "database/redis/10大数据类型.md",
     "未命名.canvas",
     "database/redis/主从复制和哨兵.md",
@@ -144,7 +150,6 @@
     "database/redis/redis事务.md",
     "database/redis/docker-redis.md",
     "database/redis/命令.md",
-    "docker/install.md",
     "redisinde.md",
     "database/mysql/quick.md",
     "java/juc/锁类型.md",
@@ -157,9 +162,6 @@
     "vue3/axios.md",
     "vue3/start.md",
     "regular/regular.md",
-    "utils.md",
-    "tools.md",
-    "database/mysql/mysql管理.md",
     "java/utils",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",

@@ -6,10 +6,10 @@
   "canvas",
   "tag-pane",
   "page-preview",
-  "note-composer",
   "command-palette",
   "slash-command",
   "random-note",
   "outline",
+  "slides",
   "file-recovery"
 ]
