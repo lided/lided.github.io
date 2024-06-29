@@ -16,7 +16,7 @@
                 "file": "todo.canvas",
                 "viewState": {
                   "x": 430.5,
-                  "y": -491.5,
+                  "y": -863.5,
                   "zoom": 0
                 }
               }
@@ -164,7 +164,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "e09b7eeb37d63fd1",
+  "active": "4452de32859f1fef",
   "lastOpenFiles": [
     "readme.md",
     "todo.canvas",

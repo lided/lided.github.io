@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"aa4ac61d37110018","x":288,"y":-854,"width":285,"height":167,"type":"text","text":"# feji\n- [ ]  打飞机"}
+		{"id":"aa4ac61d37110018","type":"text","text":"- [ ]  打飞机","x":288,"y":-854,"width":285,"height":167}
 	],
 	"edges":[]
 }
