@@ -4,22 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "4def3c2a8860e27a",
+        "id": "19840c4e387269c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6211876ef3fb9189",
+            "id": "7d29b25f26489172",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "todo.canvas",
+                "viewState": {
+                  "x": -217.5,
+                  "y": -1434,
+                  "zoom": 0
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9505efc9c1c688d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "database/mysql/quick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02cad13697b22abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,26 +64,26 @@
         "dimension": 60.54644808743169,
         "children": [
           {
-            "id": "1c87ef4150171b05",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "b7b371eec0b4f14f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#前后端分离项目",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c87ef4150171b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -81,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -99,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.md"
+                "file": "readme.md"
               }
             }
           },
@@ -109,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,38 +187,43 @@
       "switcher:打开快速切换": false,
       "random-note:开始漫游笔记": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false,
+      "command-palette:打开命令面板": true,
       "canvas:新建白板": false
     }
   },
-  "active": "1800ee6710f8b2d9",
+  "active": "02cad13697b22abe",
   "lastOpenFiles": [
-    "readme.md",
     "todo.canvas",
+    "database/mysql/quick.md",
+    "workflow.readme.md",
+    "readme.md",
+    "java/utils/chaimMap.md",
     "design-mode/大纲.md",
     "design-mode/创建型模式/抽象工厂模式.md",
-    "design-mode/行为型模式/strategy策略模式.md",
-    "java/springboot/data-format.md",
-    "design-mode/创建型模式/工厂方法模式.md",
-    "java/juc/aqs.md",
-    "java/juc/volatile.md",
-    "java/spring/流程.md",
-    "database/elasticsearch/quickstart.md",
-    "java/juc/jmm.md",
-    "database/redis/start.md",
-    "vue3/starter.md",
-    "java/springcloud/网关.md",
-    "vue3/svg-icon.md",
-    "database/mysql/sql.md",
-    "java/springcloud/分布式事务.md",
-    "regular/regular.md",
-    "vue3/dev-proxy.md",
-    "vue3/axios.md",
-    "vue3/router.md",
-    "vue3/plugin.md",
     "vue3/element-plus.md",
+    "vue3/router.md",
+    "vue3/starter.md",
+    "vue3/svg-icon.md",
+    "java/springboot/mybatis.md",
+    "java/springboot/data-format.md",
+    "vue3/dev-proxy.md",
+    "vue3/plugin.md",
     "vue3/start.md",
-    "design-mode/结构型模式/adapter.md",
+    "java/springboot/global-exception-handler.md",
+    "database/mysql/sql.md",
+    "java/io/未命名.md",
+    "java/string-builder-buffer.md",
+    "database/kafka/install.md",
+    "database/mysql/视图.md",
+    "database/mysql/事务.md",
+    "java/io",
+    "database/mysql/存储引擎.md",
+    "database/mysql/images/Pasted image 20240220195222.png",
+    "database/mysql/images/Pasted image 20240220194207.png",
+    "database/mysql/images/Pasted image 20240220192803.png",
+    "未命名.canvas",
+    "database/redis/cluster.md",
+    "database/redis/主从复制和哨兵.md",
     "未命名",
     "java/utils",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
@@ -203,13 +237,9 @@
     "java/springboot/images/Pasted image 20240313134557.png",
     "java/spring",
     "java/juc",
-    "java/maven",
     "design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
-    "database/mysql/images/Pasted image 20240224163936.png",
-    "database/mysql/images/Pasted image 20240224161541.png",
-    "database/mysql/images/Pasted image 20240224151215.png",
     "qqq.canvas",
     "bzd.canvas",
     "未命名 2.canvas",

@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"d04d9fd79647e5fc","x":-277,"y":-1256,"width":463,"height":309,"type":"text","text":""}
+		{"id":"d04d9fd79647e5fc","type":"text","text":"# JAVA\n- [ ] java网络模型\n- [ ] [牛客sql](https://www.nowcoder.com/practice/d8a4f7b1ded04948b5435a45f03ead8c?tpId=199&tqId=1980674&ru=%2Fpractice%2Fb8f30b239b454ed490367b53ea95607d&qru=%2Fta%2Fsql-quick-study%2Fquestion-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D199)\n- [ ] socket,server","x":-377,"y":-1737,"width":241,"height":208},
+		{"id":"c83530f9d92d6114","type":"text","text":"# vue-demo\n- [x] formcreate表格表单不显示","x":-486,"y":-1283,"width":350,"height":190},
+		{"id":"757504cb95fdd582","x":98,"y":-1558,"width":160,"height":58,"type":"text","text":"# 工作流"},
+		{"id":"8562ef502287275e","type":"text","text":"# erp重构","x":66,"y":-1423,"width":225,"height":165},
+		{"id":"a7b8eae1d96d562a","type":"text","text":"# 审计","x":-715,"y":-1717,"width":198,"height":217}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"eb33cab755da8b70","fromNode":"757504cb95fdd582","fromSide":"bottom","toNode":"8562ef502287275e","toSide":"top"}
+	]
 }
