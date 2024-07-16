@@ -20,19 +20,19 @@ wget https://dev.mysql.com/get/mysql80-community-release-el7-11.noarch.rpm
 给yum添加mysql源(模糊查询确保路径下无其他版本)
 
 ```sh
-yum install -y mysql80-community-release-*.rpm
+sudo yum install -y mysql80-community-release-*.rpm
 ```
 
 安装mysqlserver
 
 ```sh
-yum -y install mysql-community-server
+sudo yum -y install mysql-community-server
 ```
 
 ## 启动
 
 ```sh
-systemctl start mysqld.service && systemctl enable mysqld.service
+sudo systemctl start mysqld.service && sudo systemctl enable mysqld.service
 ```
 
 查看密码

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19840c4e387269c4",
+        "id": "d68e2674e9fece86",
         "type": "tabs",
         "children": [
           {
-            "id": "7d29b25f26489172",
+            "id": "320449a1504b39be",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,40 +16,15 @@
               "state": {
                 "file": "todo.canvas",
                 "viewState": {
-                  "x": -217.5,
-                  "y": -1434,
+                  "x": -217,
+                  "y": -1426.5,
                   "zoom": 0
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9505efc9c1c688d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/mysql/quick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02cad13697b22abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +36,7 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
-        "dimension": 60.54644808743169,
+        "dimension": 78.14207650273224,
         "children": [
           {
             "id": "b7b371eec0b4f14f",
@@ -94,7 +69,7 @@
       {
         "id": "b4e75b30ad8773dd",
         "type": "tabs",
-        "dimension": 39.45355191256831,
+        "dimension": 21.857923497267755,
         "children": [
           {
             "id": "07b005e508600a77",
@@ -120,7 +95,7 @@
       {
         "id": "fe7f13f242f3f5d9",
         "type": "tabs",
-        "dimension": 47.7035490605428,
+        "dimension": 42.58872651356994,
         "children": [
           {
             "id": "1800ee6710f8b2d9",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "todo.canvas"
               }
             }
           },
@@ -138,9 +113,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "todo.canvas",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "todo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +141,7 @@
       {
         "id": "d0ca3c326d0bd2c4",
         "type": "tabs",
-        "dimension": 52.29645093945721,
+        "dimension": 57.41127348643006,
         "children": [
           {
             "id": "4452de32859f1fef",
@@ -180,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,39 +166,41 @@
       "canvas:新建白板": false
     }
   },
-  "active": "02cad13697b22abe",
+  "active": "1c87ef4150171b05",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "docker/Dockerfile.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
     "todo.canvas",
-    "database/mysql/quick.md",
-    "workflow.readme.md",
+    "docker/services.md",
+    "docker/install.md",
+    "database/mysql/sql.md",
+    "java/springcloud/分布式事务.md",
     "readme.md",
+    "vue3/starter.md",
+    "vue3/组件传值.md",
+    "java/springboot/global-exception-handler.md",
+    "vue3/dev-proxy.md",
+    "vue3/router.md",
+    "vue3/svg-icon.md",
+    "vue3/element-plus.md",
+    "vue3/plugin.md",
+    "vue3/axios.md",
+    "database/mysql/quick.md",
+    "database/mysql/user and authority.md",
+    "database/mysql/install.md",
+    "workflow.readme.md",
     "java/utils/chaimMap.md",
     "design-mode/大纲.md",
     "design-mode/创建型模式/抽象工厂模式.md",
-    "vue3/element-plus.md",
-    "vue3/router.md",
-    "vue3/starter.md",
-    "vue3/svg-icon.md",
     "java/springboot/mybatis.md",
     "java/springboot/data-format.md",
-    "vue3/dev-proxy.md",
-    "vue3/plugin.md",
     "vue3/start.md",
-    "java/springboot/global-exception-handler.md",
-    "database/mysql/sql.md",
-    "java/io/未命名.md",
-    "java/string-builder-buffer.md",
-    "database/kafka/install.md",
-    "database/mysql/视图.md",
-    "database/mysql/事务.md",
     "java/io",
-    "database/mysql/存储引擎.md",
     "database/mysql/images/Pasted image 20240220195222.png",
     "database/mysql/images/Pasted image 20240220194207.png",
     "database/mysql/images/Pasted image 20240220192803.png",
-    "未命名.canvas",
-    "database/redis/cluster.md",
-    "database/redis/主从复制和哨兵.md",
     "未命名",
     "java/utils",
     "database/elasticsearch/images/Pasted image 20240603134121.png",
@@ -242,8 +219,6 @@
     "database/mysql/images/Pasted image 20240224171031.png",
     "qqq.canvas",
     "bzd.canvas",
-    "未命名 2.canvas",
-    "未命名 3.canvas",
-    "未命名 1.canvas"
+    "未命名 3.canvas"
   ]
 }

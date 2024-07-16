@@ -8,19 +8,19 @@ npm i axios
 
 ```ts
 import axios from "axios";
-const A = axios.create({
-  baseURL: "/api",
+
+export const request = axios.create({
+    baseURL: "http://127.0.0.1:4523/m1/4712835-4365060-default/api",
 });
-A.interceptors.request.use((config) => {
-  return config;
+request.interceptors.request.use((config) => {
+    return config;
 });
-A.interceptors.response.use(
-  (response) => {
-    return response.data;
-  },
-  (error) => {
-    return Promise.reject(error);
-  }
+request.interceptors.response.use(
+    (response) => {
+        return response;
+    },
+    (error) => {
+        return Promise.reject(error);
+    }
 );
-export default A;
 ```
