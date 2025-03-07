@@ -36,7 +36,6 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
-        "dimension": 78.14207650273224,
         "children": [
           {
             "id": "b7b371eec0b4f14f",
@@ -54,7 +53,7 @@
             }
           },
           {
-            "id": "1c87ef4150171b05",
+            "id": "eb2f421696c28052",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -166,7 +165,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "4d0d26056e0defb9",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
