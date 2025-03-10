@@ -36,6 +36,7 @@
       {
         "id": "35cf54de3708f806",
         "type": "tabs",
+        "dimension": 65.47619047619048,
         "children": [
           {
             "id": "b7b371eec0b4f14f",
@@ -63,12 +64,36 @@
             }
           },
           {
+            "id": "419297b166db1ddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d18ed090247d4459",
+        "type": "tabs",
+        "dimension": 34.523809523809526,
+        "children": [
+          {
             "id": "fd74655fe454b23e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -87,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "readme 的出链列表"
+              "title": "出链"
             }
           }
         ],
@@ -183,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bc7f949f07b2d768",
@@ -226,7 +249,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "13242111bf8234ab",
+  "active": "504b594ae4a5c3ce",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
