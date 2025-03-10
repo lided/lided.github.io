@@ -183,7 +183,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bc7f949f07b2d768",
@@ -225,7 +226,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "4d0d26056e0defb9",
+  "active": "c7648161ee763abf",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
