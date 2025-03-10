@@ -53,16 +53,6 @@
             }
           },
           {
-            "id": "bd76200e4761f9c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "eb2f421696c28052",
             "type": "leaf",
             "state": {
@@ -70,6 +60,39 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "fd74655fe454b23e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "readme 的反向链接列表"
+            }
+          },
+          {
+            "id": "de37a52d3c6fae26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "readme 的出链列表"
             }
           }
         ],
@@ -165,7 +188,7 @@
       {
         "id": "bc7f949f07b2d768",
         "type": "tabs",
-        "dimension": 52.19047619047619,
+        "dimension": 51.61904761904762,
         "children": [
           {
             "id": "68a080a4c4db6224",
@@ -202,7 +225,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "68a080a4c4db6224",
+  "active": "4d0d26056e0defb9",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
