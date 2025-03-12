@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "linux/command/df.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "df 的反向链接列表"
             }
           },
           {
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -206,6 +207,20 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a26f10fe9abf522e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ]
       },
@@ -249,7 +264,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "5bef4273a8e7f596",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
