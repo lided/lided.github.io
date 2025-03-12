@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/command/df.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "df 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -222,7 +221,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bc7f949f07b2d768",
