@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt2
+      text: API Examples
+      link: /api-examples
 
 features:
   - title: Linux
