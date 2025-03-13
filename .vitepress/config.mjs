@@ -4,7 +4,6 @@ import { withSidebar } from 'vitepress-sidebar';
 // https://vitepress.dev/reference/site-config
 export default defineConfig(withSidebar({
   title: "Lided",
-  lastUpdated: true,
   themeConfig: {
     search: {
       provider: 'local'
