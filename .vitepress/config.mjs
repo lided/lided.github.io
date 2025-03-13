@@ -3,7 +3,7 @@ import { withSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig(withSidebar({
-  title: "Lided",
+  title: "Lided's Blog",
   themeConfig: {
     search: {
       provider: 'local'
@@ -11,11 +11,9 @@ export default defineConfig(withSidebar({
     nav: [
       { text: 'Readme', link: '/readme' },
     ],
-
     sidebar: [],
-
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lided' },
+      { icon: 'github', link: 'https://github.com/lided/lided' },
     ]
   },
 }, [

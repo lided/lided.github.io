@@ -3,19 +3,21 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: alt
-      text: API Examples2
-      link: /api-examples
+  name: "Lided's Blog"
+  text: "❤️♥♡💘💝💖💗💓💞💕💟❥❣ღ🖤🤍🤎💙💚💛💜"
+  tagline: Building with VitePress  
+  image:
+    src: /logo2.jpg
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
+  #   - theme: alt
+  #     text: API Examples2
+  #     link: /api-examples
 
 features:
   - title: Linux
@@ -23,7 +25,7 @@ features:
   - title: Docker
     link: /docker/install
   - title: Database
-    link: /database/index.md
+    link: /database/index.md  
     details: Mysql,Redis,ElasticSearch
   - title: Java
     link: /java/index
