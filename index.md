@@ -7,7 +7,7 @@ hero:
   text: "❤️♥♡💘💝💖💗💓💞💕💟❥❣ღ🖤🤍🤎💙💚💛💜"
   tagline: Building with VitePress  
   image:
-    src: public/logo2.jpg
+    src: logo2.jpg
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
