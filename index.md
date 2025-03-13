@@ -13,8 +13,8 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-    - theme: alt2
-      text: API Examples
+    - theme: alt
+      text: API Examples2
       link: /api-examples
 
 features:
