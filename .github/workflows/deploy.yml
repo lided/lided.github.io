@@ -2,7 +2,7 @@ name: Deploy VitePress to GitHub Pages
 
 on:
   push:
-    branches: [src]  # 监听 main 分支的 push 事件
+    branches: [src]  # 监听 分支的 push 事件
 
 jobs:
   build-and-deploy:
