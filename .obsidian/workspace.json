@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -142,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -264,7 +263,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "07989ddb887d4e4d",
+  "active": "f83e99345c3d5977",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
