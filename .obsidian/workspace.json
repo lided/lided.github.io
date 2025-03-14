@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 255.5
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bc7f949f07b2d768",
@@ -263,7 +263,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "f83e99345c3d5977",
+  "active": "04ec0e4fb10a3092",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
