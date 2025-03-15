@@ -1,4 +1,4 @@
-import{_ as n,c as a,o as p,ag as l}from"./chunks/framework.DPDPlp3K.js";const r=JSON.parse('{"title":"参考","description":"","frontmatter":{},"headers":[],"relativePath":"database/redis/10大数据类型.md","filePath":"database/redis/10大数据类型.md"}'),i={name:"database/redis/10大数据类型.md"};function e(t,s,c,h,k,g){return p(),a("div",null,s[0]||(s[0]=[l(`<h1 id="参考" tabindex="-1">参考 <a class="header-anchor" href="#参考" aria-label="Permalink to &quot;参考&quot;">​</a></h1><p><a href="https://redis.io/commands/" target="_blank" rel="noreferrer">官网命令</a><a href="http://www.redis.cn/commands.html" target="_blank" rel="noreferrer">中文命令</a></p><h1 id="string" tabindex="-1">String <a class="header-anchor" href="#string" aria-label="Permalink to &quot;String&quot;">​</a></h1><div class="language-sh vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 不存在时创建,存在时修改</span></span>
+import{_ as n,c as a,o as p,ag as l}from"./chunks/framework.DPDPlp3K.js";const r=JSON.parse('{"title":"String","description":"","frontmatter":{},"headers":[],"relativePath":"database/redis/10大数据类型.md","filePath":"database/redis/10大数据类型.md"}'),i={name:"database/redis/10大数据类型.md"};function e(t,s,c,h,k,g){return p(),a("div",null,s[0]||(s[0]=[l(`<p><a href="https://redis.io/commands/" target="_blank" rel="noreferrer">官网命令</a></p><h1 id="string" tabindex="-1">String <a class="header-anchor" href="#string" aria-label="Permalink to &quot;String&quot;">​</a></h1><div class="language-sh vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 不存在时创建,存在时修改</span></span>
 <span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">set</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> k1</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> v1</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 仅当k1不存在时创建</span></span>
@@ -219,20 +219,7 @@ import{_ as n,c as a,o as p,ag as l}from"./chunks/framework.DPDPlp3K.js";const r
 <span class="line"><span>xgroup create &lt;qkey&gt; &lt;gkey&gt; [$|0]</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>#gkey组中的消费者consumer从qkey中读取</span></span>
-<span class="line"><span>xreadgroup group &lt;gkey&gt; &lt;consumer&gt; streams &lt;qkey&gt; &gt; [count &lt;c&gt;]?</span></span></code></pre></div><h1 id="bitmap-位图" tabindex="-1">bitmap(位图) <a class="header-anchor" href="#bitmap-位图" aria-label="Permalink to &quot;bitmap(位图)&quot;">​</a></h1><p>二进制数组 (10010010101)(本质是string,可以进行string操作)</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>#第n位设为(1|0)</span></span>
-<span class="line"><span>setbit &lt;bit_k&gt; &lt;n&gt; (1|0)</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>#  get 第n位</span></span>
-<span class="line"><span>getbit &lt;bit_k&gt; &lt;n&gt;</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span># get length (字节)</span></span>
-<span class="line"><span>strlen &lt;bit_k&gt;</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span># 1的数量</span></span>
-<span class="line"><span>bitcount &lt;bit_k&gt;</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>#k1,k2中都为1的取出到新的newk</span></span>
-<span class="line"><span>bitop and &lt;newk&gt; &lt;k1&gt; &lt;k2&gt;</span></span></code></pre></div><h1 id="hyperloglog-基数统计" tabindex="-1">HyperLogLog(基数统计) <a class="header-anchor" href="#hyperloglog-基数统计" aria-label="Permalink to &quot;HyperLogLog(基数统计)&quot;">​</a></h1><p>去重数据集(有误差)</p><p>只记录个数不保存数据</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>#添加</span></span>
+<span class="line"><span>xreadgroup group &lt;gkey&gt; &lt;consumer&gt; streams &lt;qkey&gt; &gt; [count &lt;c&gt;]?</span></span></code></pre></div><h1 id="hyperloglog-基数统计" tabindex="-1">HyperLogLog(基数统计) <a class="header-anchor" href="#hyperloglog-基数统计" aria-label="Permalink to &quot;HyperLogLog(基数统计)&quot;">​</a></h1><p>去重数据集(有误差)</p><p>只记录个数不保存数据</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>#添加</span></span>
 <span class="line"><span>pfadd &lt;key&gt; &lt;val&gt;...</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>#基数数量</span></span>
@@ -266,4 +253,4 @@ import{_ as n,c as a,o as p,ag as l}from"./chunks/framework.DPDPlp3K.js";const r
 <span class="line"><span>bitfield &lt;key&gt; get [i|u]8 &lt;offset&gt;</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>#指定key中的offset偏移量后面设置为val(二进制) 每8位一组 </span></span>
-<span class="line"><span>bitfield &lt;key&gt; set i8 &lt;offset&gt; &lt;val&gt;</span></span></code></pre></div>`,39)]))}const o=n(i,[["render",e]]);export{r as __pageData,o as default};
+<span class="line"><span>bitfield &lt;key&gt; set i8 &lt;offset&gt; &lt;val&gt;</span></span></code></pre></div>`,35)]))}const o=n(i,[["render",e]]);export{r as __pageData,o as default};
