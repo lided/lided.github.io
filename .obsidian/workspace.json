@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/raid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "raid 的反向链接列表"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/raid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "raid 的出链列表"
             }
           },
           {
@@ -123,9 +125,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "linux/raid.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "raid的笔记属性"
             }
           }
         ],
@@ -151,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -272,7 +277,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "0000307904085496",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
