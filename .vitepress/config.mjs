@@ -34,7 +34,6 @@ function quickSidebar(path) {
     collapsed: true,
     sortMenusByFrontmatterOrder: true,
     capitalizeFirst: true,
-    useTitleFromFileHeading: false,
     sortFolderTo: 'top',
   }
 }

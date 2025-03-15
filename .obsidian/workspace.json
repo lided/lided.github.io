@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "readme 的反向链接列表"
             }
           },
           {
@@ -116,6 +117,16 @@
               },
               "icon": "links-going-out",
               "title": "出链"
+            }
+          },
+          {
+            "id": "c7648161ee763abf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
             }
           }
         ],
@@ -141,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -220,8 +231,7 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bc7f949f07b2d768",
@@ -263,7 +273,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "04ec0e4fb10a3092",
+  "active": "77ef4288e16bf322",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
