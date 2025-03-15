@@ -1,29 +1,56 @@
-## 介绍
+---
+order: 0
+---
+redis是一个高性能,基于内存的非关系型数据库
 
-[redis作者个人博客](HTTP://antirez.com)
+***参考文档***
+- [redis作者个人博客](HTTP://antirez.com)
+- [官方命令文档](https://redis.io/docs/latest/commands/?group=bitmap)
+- [中文命令文档](https://redis.com.cn/commands.html)
 
-## 安装
+# 安装
 
-安装gcc
+## 通过包管理器安装
+
+[redis官方安装](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/)
+
+## 编译安装
+
+1. 从官网安装tar包
+
 ```sh
-yum -y install gcc-c++
+curl https://download.redis.io/redis-stable.tar.gz -o redis-stable.tar.gz
 ```
 
-将tar移到/opt下
-```sh
-tar -zxvf redis-*.tar.gz
-```
-
-cd进入redis文件夹进行安装
+2. 安装依赖
 
 ```sh
-make && make install
+# arch
+sudo pacman -S base-devel tcl
+
+# Ubuntu/Debian
+sudo apt update
+sudo apt install build-essential tcl
+
+# CentOS/RHEL
+sudo yum install gcc-c++
 ```
 
-显示 It's a good idea to run 'make test'  安装成功
-安装默认路径/usr/local/bin
+3. 解压
 
-## 修改配置
+```sh
+tar -zxvf redis-stable.tar.gz && cd redis-stable
+```
+
+4. 编译安装
+
+```sh
+sudo make && sudo make install
+```
+
+- 安装默认路径/usr/local/bin
+
+5. 修改配置
 
 ```
 daemonize yes #后台守护进程
@@ -32,7 +59,7 @@ protected-mode no #保护模式  允许别人连接
 requirepass xxxx #设置密码,可以不设置
 ```
 
-## 启动
+# 启动
 
 在/usr/local/bin目录下
 

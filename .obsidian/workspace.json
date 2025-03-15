@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/redis/bitmap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "bitmap 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/redis/bitmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "bitmap 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -125,11 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "database/redis/bitmap.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "bitmap的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -276,7 +272,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "fcf2239c418ca017",
+  "active": "0000307904085496",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
