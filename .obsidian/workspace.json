@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/raid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "raid 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/raid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "raid 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -126,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/raid.md"
+                "file": "docker/network.md"
               },
               "icon": "lucide-info",
-              "title": "raid的笔记属性"
+              "title": "network的笔记属性"
             }
           }
         ],
