@@ -123,11 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "linux/regular.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "regular的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -153,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -275,7 +272,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "3013bb717551f8e7",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",

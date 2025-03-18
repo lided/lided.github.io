@@ -1,6 +1,8 @@
 ---
 order: 3
 ---
+
+
 在linux中常见的正则表达式有下面三种标准
 
 - POSIX
@@ -8,7 +10,7 @@ order: 3
 	- ERE(Extended Regular Expressions)
 - PCRE(Perl Compatible Regular Expressions)
 
-# POSIX
+## POSIX
 
 | 字符  |      含义       | BRE | ERE |                                           |
 | :-: | :-----------: | :-: | :-: | ----------------------------------------- |
@@ -31,7 +33,7 @@ order: 3
 [[:space:]] 任意空白字符(空格,换行等)
 ```
 
-# PCRE
+## PCRE
 
 来自**Perl**语言,在POSIX标准基础上增加了很多高级功能,被很多编程语言使用
 
