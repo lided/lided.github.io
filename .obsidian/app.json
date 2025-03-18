@@ -23,6 +23,5 @@
   },
   "propertiesInDocument": "visible",
   "vimMode": false,
-  "showInlineTitle": true,
-  "showRibbon": true
+  "showInlineTitle": true
 }

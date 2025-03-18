@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d68e2674e9fece86",
+        "id": "b505cbf3e7739f12",
         "type": "tabs",
         "children": [
           {
-            "id": "320449a1504b39be",
+            "id": "afba38226eb019db",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "todo.canvas",
-                "viewState": {
-                  "x": -217,
-                  "y": -1426.5,
-                  "zoom": 0
-                }
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -39,28 +32,16 @@
         "dimension": 65.47619047619048,
         "children": [
           {
-            "id": "b7b371eec0b4f14f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#前后端分离项目",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "eb2f421696c28052",
+            "id": "6fbe3b29d5be1d31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -117,35 +98,6 @@
               "icon": "links-going-out",
               "title": "出链"
             }
-          },
-          {
-            "id": "c7648161ee763abf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {},
-              "icon": "lucide-info",
-              "title": "笔记属性"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b4e75b30ad8773dd",
-        "type": "tabs",
-        "dimension": 21.857923497267755,
-        "children": [
-          {
-            "id": "07b005e508600a77",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       }
@@ -160,7 +112,7 @@
       {
         "id": "fe7f13f242f3f5d9",
         "type": "tabs",
-        "dimension": 42.58872651356994,
+        "dimension": 39.14285714285714,
         "children": [
           {
             "id": "1800ee6710f8b2d9",
@@ -168,56 +120,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.canvas"
-              }
-            }
-          },
-          {
-            "id": "c9e656371e3dfe2e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "todo.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "b64ee7fa1025c516",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "todo.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d0ca3c326d0bd2c4",
-        "type": "tabs",
-        "dimension": 57.41127348643006,
-        "children": [
-          {
-            "id": "4452de32859f1fef",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
-            "id": "a26f10fe9abf522e",
+            "id": "baab7494bff69fb9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -235,7 +147,7 @@
       {
         "id": "bc7f949f07b2d768",
         "type": "tabs",
-        "dimension": 51.61904761904762,
+        "dimension": 60.857142857142854,
         "children": [
           {
             "id": "68a080a4c4db6224",
@@ -261,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,8 +184,14 @@
       "canvas:新建白板": false
     }
   },
-  "active": "68a080a4c4db6224",
+  "active": "1800ee6710f8b2d9",
   "lastOpenFiles": [
+    "database/index.md",
+    "index.md",
+    "readme.md",
+    "linux/regular.md",
+    "linux/raid.md",
+    "linux/git.md",
     "未命名.canvas",
     "docker/Dockerfile.md",
     "未命名 1.canvas",
@@ -283,7 +201,6 @@
     "docker/install.md",
     "database/mysql/sql.md",
     "java/springcloud/分布式事务.md",
-    "readme.md",
     "vue3/starter.md",
     "vue3/组件传值.md",
     "java/springboot/global-exception-handler.md",
@@ -299,10 +216,6 @@
     "workflow.readme.md",
     "java/utils/chaimMap.md",
     "design-mode/大纲.md",
-    "design-mode/创建型模式/抽象工厂模式.md",
-    "java/springboot/mybatis.md",
-    "java/springboot/data-format.md",
-    "vue3/start.md",
     "java/io",
     "database/mysql/images/Pasted image 20240220195222.png",
     "database/mysql/images/Pasted image 20240220194207.png",
