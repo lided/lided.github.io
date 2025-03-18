@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/network.md"
+                "file": "linux/regular.md"
               },
               "icon": "lucide-info",
-              "title": "network的笔记属性"
+              "title": "regular的笔记属性"
             }
           }
         ],
@@ -275,7 +275,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "68a080a4c4db6224",
+  "active": "3013bb717551f8e7",
   "lastOpenFiles": [
     "未命名.canvas",
     "docker/Dockerfile.md",
