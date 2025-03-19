@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b505cbf3e7739f12",
+        "id": "ab2a8dde68006d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "afba38226eb019db",
+            "id": "0f3baee023d218f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docker/network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "network"
             }
           }
         ]
@@ -103,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -120,12 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docker/network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "network 的大纲"
             }
           },
           {
@@ -173,18 +180,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "random-note:开始漫游笔记": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": true,
-      "canvas:新建白板": false
+      "command-palette:打开命令面板": true
     }
   },
-  "active": "1800ee6710f8b2d9",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
     "database/index.md",
     "index.md",

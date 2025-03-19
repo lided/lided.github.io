@@ -5,7 +5,7 @@
   "useMarkdownLinks": true,
   "readableLineLength": true,
   "strictLineBreaks": true,
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": false,
   "promptDelete": true,
   "spellcheck": false,
@@ -23,5 +23,5 @@
   },
   "propertiesInDocument": "visible",
   "vimMode": false,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }

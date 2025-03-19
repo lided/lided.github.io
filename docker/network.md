@@ -14,9 +14,9 @@ ca5b537b5358   host      host      local
 593abd797fe1   none      null      local
 ```
 
-# bridge
+## bridge
 
-## 默认
+### 默认
 
 docker有一个默认bridge网络,通过docker0虚拟网桥实现容器与外部通信,可以在主机上查看
 
@@ -45,7 +45,7 @@ $ cat /etc/hosts | grep aaa
 
 link参数是单向通信，若需互相通信，则需要对所有容器指定link参数。当容器数量多时,就会非常麻烦。所以已不推荐使用，建议使用自定义bridge。
 
-## 自定义bridge
+### 自定义bridge
 
 ```sh
 # 创建一个docker网络,默认为bridge模式
@@ -71,14 +71,16 @@ round-trip min/avg/max = 0.257/0.257/0.257 ms
 ```
 
 
-# host
+## host
 
 容器直接使用主机的网络
+
 ***优点***
 - 无需nat转化,性能高
+
 ***缺点***
 - 当容器较多时容易造成端口冲突,生产风险较高
 
-# none
+## none
 
 容器不使用网络
