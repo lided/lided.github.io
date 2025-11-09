@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n}from"./chunks/framework.Cycwnjj0.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/command/printf.md","filePath":"linux/command/printf.md"}'),a={name:"linux/command/printf.md"};function r(o,c,i,s,m,p){return n(),e("div")}const _=t(a,[["render",r]]);export{f as __pageData,_ as default};
