@@ -93,8 +93,7 @@ sudo systemctl start docker && sudo systemctl enable docker
 ## 加速器
 
 ```sh
-echo '{
- "registry-mirrors":["https://docker.m.daocloud.io","https://docker.1panel.live"]
-}' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
+##  /etc/docker/daemon.json
+curl https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea -s | sed -nE '/^\{$/,/^\}$/p'
 ```
 
